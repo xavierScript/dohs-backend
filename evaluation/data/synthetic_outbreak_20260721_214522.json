@@ -1,0 +1,5502 @@
+[
+  {
+    "lat": 6.13879,
+    "lon": 6.936072,
+    "true_cluster": 9,
+    "disease": "Meningitis",
+    "classification": "Confirmed",
+    "outcome": "Unknown",
+    "category": "Animal",
+    "reported_at": "2024-01-25T00:00:00"
+  },
+  {
+    "lat": 6.184747,
+    "lon": 7.012719,
+    "true_cluster": 9,
+    "disease": "Meningitis",
+    "classification": "Probable",
+    "outcome": "Unknown",
+    "category": "Human",
+    "reported_at": "2024-01-27T00:00:00"
+  },
+  {
+    "lat": 12.656473,
+    "lon": 8.585545,
+    "true_cluster": 7,
+    "disease": "Yellow Fever",
+    "classification": "Confirmed",
+    "outcome": "Dead",
+    "category": "Human",
+    "reported_at": "2024-01-02T00:00:00"
+  },
+  {
+    "lat": 10.908407,
+    "lon": 4.583648,
+    "true_cluster": 4,
+    "disease": "Lassa Fever",
+    "classification": "Suspected",
+    "outcome": "Unknown",
+    "category": "Environmental",
+    "reported_at": "2024-01-17T00:00:00"
+  },
+  {
+    "lat": 6.088724,
+    "lon": 5.986878,
+    "true_cluster": 2,
+    "disease": "Yellow Fever",
+    "classification": "Suspected",
+    "outcome": "Alive",
+    "category": "Human",
+    "reported_at": "2024-01-27T00:00:00"
+  },
+  {
+    "lat": 10.821558,
+    "lon": 4.587435,
+    "true_cluster": 4,
+    "disease": "Lassa Fever",
+    "classification": "Confirmed",
+    "outcome": "Unknown",
+    "category": "Environmental",
+    "reported_at": "2024-01-09T00:00:00"
+  },
+  {
+    "lat": 9.159939,
+    "lon": 9.322923,
+    "true_cluster": -1,
+    "disease": "Lassa Fever",
+    "classification": "Confirmed",
+    "outcome": "Dead",
+    "category": "Animal",
+    "reported_at": "2024-01-08T00:00:00"
+  },
+  {
+    "lat": 12.725332,
+    "lon": 8.553269,
+    "true_cluster": 7,
+    "disease": "Yellow Fever",
+    "classification": "Confirmed",
+    "outcome": "Alive",
+    "category": "Environmental",
+    "reported_at": "2024-01-08T00:00:00"
+  },
+  {
+    "lat": 5.711827,
+    "lon": 6.237289,
+    "true_cluster": 6,
+    "disease": "Cholera",
+    "classification": "Probable",
+    "outcome": "Alive",
+    "category": "Environmental",
+    "reported_at": "2024-01-10T00:00:00"
+  },
+  {
+    "lat": 8.652077,
+    "lon": 10.589561,
+    "true_cluster": 3,
+    "disease": "Lassa Fever",
+    "classification": "Probable",
+    "outcome": "Unknown",
+    "category": "Animal",
+    "reported_at": "2024-01-19T00:00:00"
+  },
+  {
+    "lat": 6.13478,
+    "lon": 6.044415,
+    "true_cluster": 2,
+    "disease": "Yellow Fever",
+    "classification": "Probable",
+    "outcome": "Alive",
+    "category": "Human",
+    "reported_at": "2024-01-09T00:00:00"
+  },
+  {
+    "lat": 8.585092,
+    "lon": 10.560651,
+    "true_cluster": 3,
+    "disease": "Lassa Fever",
+    "classification": "Probable",
+    "outcome": "Dead",
+    "category": "Human",
+    "reported_at": "2024-01-23T00:00:00"
+  },
+  {
+    "lat": 12.645373,
+    "lon": 8.524904,
+    "true_cluster": 7,
+    "disease": "Yellow Fever",
+    "classification": "Confirmed",
+    "outcome": "Unknown",
+    "category": "Environmental",
+    "reported_at": "2024-01-01T00:00:00"
+  },
+  {
+    "lat": 12.650273,
+    "lon": 8.513175,
+    "true_cluster": 7,
+    "disease": "Yellow Fever",
+    "classification": "Probable",
+    "outcome": "Alive",
+    "category": "Environmental",
+    "reported_at": "2024-01-22T00:00:00"
+  },
+  {
+    "lat": 11.090474,
+    "lon": 4.824319,
+    "true_cluster": 5,
+    "disease": "Meningitis",
+    "classification": "Probable",
+    "outcome": "Alive",
+    "category": "Animal",
+    "reported_at": "2024-01-23T00:00:00"
+  },
+  {
+    "lat": 8.59577,
+    "lon": 10.606592,
+    "true_cluster": 3,
+    "disease": "Lassa Fever",
+    "classification": "Confirmed",
+    "outcome": "Unknown",
+    "category": "Environmental",
+    "reported_at": "2024-01-29T00:00:00"
+  },
+  {
+    "lat": 6.572,
+    "lon": 9.67002,
+    "true_cluster": 1,
+    "disease": "Yellow Fever",
+    "classification": "Probable",
+    "outcome": "Unknown",
+    "category": "Environmental",
+    "reported_at": "2024-01-05T00:00:00"
+  },
+  {
+    "lat": 6.215289,
+    "lon": 6.936626,
+    "true_cluster": 9,
+    "disease": "Meningitis",
+    "classification": "Confirmed",
+    "outcome": "Unknown",
+    "category": "Human",
+    "reported_at": "2024-01-17T00:00:00"
+  },
+  {
+    "lat": 10.128675,
+    "lon": 3.949726,
+    "true_cluster": 0,
+    "disease": "Lassa Fever",
+    "classification": "Confirmed",
+    "outcome": "Unknown",
+    "category": "Environmental",
+    "reported_at": "2024-01-16T00:00:00"
+  },
+  {
+    "lat": 10.983992,
+    "lon": 4.826119,
+    "true_cluster": 5,
+    "disease": "Meningitis",
+    "classification": "Probable",
+    "outcome": "Dead",
+    "category": "Human",
+    "reported_at": "2024-01-12T00:00:00"
+  },
+  {
+    "lat": 10.815685,
+    "lon": 4.546833,
+    "true_cluster": 4,
+    "disease": "Lassa Fever",
+    "classification": "Suspected",
+    "outcome": "Alive",
+    "category": "Animal",
+    "reported_at": "2024-01-28T00:00:00"
+  },
+  {
+    "lat": 6.446922,
+    "lon": 9.647561,
+    "true_cluster": 1,
+    "disease": "Yellow Fever",
+    "classification": "Confirmed",
+    "outcome": "Alive",
+    "category": "Environmental",
+    "reported_at": "2024-01-03T00:00:00"
+  },
+  {
+    "lat": 5.652405,
+    "lon": 6.156544,
+    "true_cluster": 6,
+    "disease": "Cholera",
+    "classification": "Probable",
+    "outcome": "Dead",
+    "category": "Animal",
+    "reported_at": "2024-01-31T00:00:00"
+  },
+  {
+    "lat": 6.111429,
+    "lon": 6.094216,
+    "true_cluster": 2,
+    "disease": "Yellow Fever",
+    "classification": "Probable",
+    "outcome": "Dead",
+    "category": "Environmental",
+    "reported_at": "2024-01-25T00:00:00"
+  },
+  {
+    "lat": 10.882103,
+    "lon": 4.620529,
+    "true_cluster": 4,
+    "disease": "Lassa Fever",
+    "classification": "Suspected",
+    "outcome": "Alive",
+    "category": "Human",
+    "reported_at": "2024-01-12T00:00:00"
+  },
+  {
+    "lat": 6.198669,
+    "lon": 7.02204,
+    "true_cluster": 9,
+    "disease": "Meningitis",
+    "classification": "Confirmed",
+    "outcome": "Alive",
+    "category": "Environmental",
+    "reported_at": "2024-01-18T00:00:00"
+  },
+  {
+    "lat": 5.692544,
+    "lon": 6.285787,
+    "true_cluster": 6,
+    "disease": "Cholera",
+    "classification": "Suspected",
+    "outcome": "Unknown",
+    "category": "Environmental",
+    "reported_at": "2024-01-21T00:00:00"
+  },
+  {
+    "lat": 12.642854,
+    "lon": 8.551686,
+    "true_cluster": 7,
+    "disease": "Yellow Fever",
+    "classification": "Probable",
+    "outcome": "Dead",
+    "category": "Human",
+    "reported_at": "2024-01-25T00:00:00"
+  },
+  {
+    "lat": 6.49087,
+    "lon": 9.616627,
+    "true_cluster": 1,
+    "disease": "Yellow Fever",
+    "classification": "Suspected",
+    "outcome": "Dead",
+    "category": "Human",
+    "reported_at": "2024-01-06T00:00:00"
+  },
+  {
+    "lat": 7.047361,
+    "lon": 5.557942,
+    "true_cluster": 8,
+    "disease": "Yellow Fever",
+    "classification": "Suspected",
+    "outcome": "Dead",
+    "category": "Human",
+    "reported_at": "2024-01-09T00:00:00"
+  },
+  {
+    "lat": 8.657424,
+    "lon": 10.542522,
+    "true_cluster": 3,
+    "disease": "Lassa Fever",
+    "classification": "Probable",
+    "outcome": "Dead",
+    "category": "Environmental",
+    "reported_at": "2024-01-16T00:00:00"
+  },
+  {
+    "lat": 8.561594,
+    "lon": 10.497499,
+    "true_cluster": 3,
+    "disease": "Lassa Fever",
+    "classification": "Probable",
+    "outcome": "Alive",
+    "category": "Environmental",
+    "reported_at": "2024-01-03T00:00:00"
+  },
+  {
+    "lat": 6.204071,
+    "lon": 6.956133,
+    "true_cluster": 9,
+    "disease": "Meningitis",
+    "classification": "Probable",
+    "outcome": "Dead",
+    "category": "Human",
+    "reported_at": "2024-01-31T00:00:00"
+  },
+  {
+    "lat": 6.175378,
+    "lon": 6.979092,
+    "true_cluster": 9,
+    "disease": "Meningitis",
+    "classification": "Probable",
+    "outcome": "Unknown",
+    "category": "Environmental",
+    "reported_at": "2024-01-11T00:00:00"
+  },
+  {
+    "lat": 6.268239,
+    "lon": 7.012061,
+    "true_cluster": 9,
+    "disease": "Meningitis",
+    "classification": "Suspected",
+    "outcome": "Unknown",
+    "category": "Environmental",
+    "reported_at": "2024-01-16T00:00:00"
+  },
+  {
+    "lat": 11.012936,
+    "lon": 4.751038,
+    "true_cluster": 5,
+    "disease": "Meningitis",
+    "classification": "Confirmed",
+    "outcome": "Unknown",
+    "category": "Environmental",
+    "reported_at": "2024-01-03T00:00:00"
+  },
+  {
+    "lat": 6.454897,
+    "lon": 9.653429,
+    "true_cluster": 1,
+    "disease": "Yellow Fever",
+    "classification": "Suspected",
+    "outcome": "Dead",
+    "category": "Animal",
+    "reported_at": "2024-01-03T00:00:00"
+  },
+  {
+    "lat": 13.205475,
+    "lon": 3.730258,
+    "true_cluster": -1,
+    "disease": "Yellow Fever",
+    "classification": "Suspected",
+    "outcome": "Dead",
+    "category": "Animal",
+    "reported_at": "2024-01-11T00:00:00"
+  },
+  {
+    "lat": 7.097357,
+    "lon": 5.587219,
+    "true_cluster": 8,
+    "disease": "Yellow Fever",
+    "classification": "Confirmed",
+    "outcome": "Dead",
+    "category": "Human",
+    "reported_at": "2024-01-15T00:00:00"
+  },
+  {
+    "lat": 12.599229,
+    "lon": 8.511965,
+    "true_cluster": 7,
+    "disease": "Yellow Fever",
+    "classification": "Confirmed",
+    "outcome": "Unknown",
+    "category": "Environmental",
+    "reported_at": "2024-01-04T00:00:00"
+  },
+  {
+    "lat": 10.88163,
+    "lon": 4.571147,
+    "true_cluster": 4,
+    "disease": "Lassa Fever",
+    "classification": "Confirmed",
+    "outcome": "Unknown",
+    "category": "Environmental",
+    "reported_at": "2024-01-28T00:00:00"
+  },
+  {
+    "lat": 7.055092,
+    "lon": 11.093296,
+    "true_cluster": -1,
+    "disease": "Cholera",
+    "classification": "Probable",
+    "outcome": "Unknown",
+    "category": "Human",
+    "reported_at": "2024-01-23T00:00:00"
+  },
+  {
+    "lat": 5.682609,
+    "lon": 6.2186,
+    "true_cluster": 6,
+    "disease": "Cholera",
+    "classification": "Confirmed",
+    "outcome": "Dead",
+    "category": "Animal",
+    "reported_at": "2024-01-11T00:00:00"
+  },
+  {
+    "lat": 10.943366,
+    "lon": 4.651561,
+    "true_cluster": 4,
+    "disease": "Lassa Fever",
+    "classification": "Probable",
+    "outcome": "Alive",
+    "category": "Environmental",
+    "reported_at": "2024-01-24T00:00:00"
+  },
+  {
+    "lat": 6.18463,
+    "lon": 7.033128,
+    "true_cluster": 9,
+    "disease": "Meningitis",
+    "classification": "Suspected",
+    "outcome": "Unknown",
+    "category": "Environmental",
+    "reported_at": "2024-01-22T00:00:00"
+  },
+  {
+    "lat": 10.084347,
+    "lon": 3.893448,
+    "true_cluster": 0,
+    "disease": "Lassa Fever",
+    "classification": "Confirmed",
+    "outcome": "Unknown",
+    "category": "Environmental",
+    "reported_at": "2024-01-03T00:00:00"
+  },
+  {
+    "lat": 6.096535,
+    "lon": 6.020554,
+    "true_cluster": 2,
+    "disease": "Yellow Fever",
+    "classification": "Confirmed",
+    "outcome": "Alive",
+    "category": "Human",
+    "reported_at": "2024-01-19T00:00:00"
+  },
+  {
+    "lat": 5.604391,
+    "lon": 6.267363,
+    "true_cluster": 6,
+    "disease": "Cholera",
+    "classification": "Suspected",
+    "outcome": "Dead",
+    "category": "Environmental",
+    "reported_at": "2024-01-18T00:00:00"
+  },
+  {
+    "lat": 9.661421,
+    "lon": 8.524055,
+    "true_cluster": -1,
+    "disease": "Lassa Fever",
+    "classification": "Confirmed",
+    "outcome": "Alive",
+    "category": "Human",
+    "reported_at": "2024-01-04T00:00:00"
+  },
+  {
+    "lat": 8.611229,
+    "lon": 10.561035,
+    "true_cluster": 3,
+    "disease": "Lassa Fever",
+    "classification": "Suspected",
+    "outcome": "Unknown",
+    "category": "Animal",
+    "reported_at": "2024-01-19T00:00:00"
+  },
+  {
+    "lat": 12.646671,
+    "lon": 8.577222,
+    "true_cluster": 7,
+    "disease": "Yellow Fever",
+    "classification": "Suspected",
+    "outcome": "Unknown",
+    "category": "Environmental",
+    "reported_at": "2024-01-19T00:00:00"
+  },
+  {
+    "lat": 5.668689,
+    "lon": 6.280051,
+    "true_cluster": 6,
+    "disease": "Cholera",
+    "classification": "Probable",
+    "outcome": "Alive",
+    "category": "Environmental",
+    "reported_at": "2024-01-18T00:00:00"
+  },
+  {
+    "lat": 5.413585,
+    "lon": 7.361559,
+    "true_cluster": -1,
+    "disease": "Typhoid",
+    "classification": "Suspected",
+    "outcome": "Unknown",
+    "category": "Animal",
+    "reported_at": "2024-01-14T00:00:00"
+  },
+  {
+    "lat": 5.693756,
+    "lon": 6.285155,
+    "true_cluster": 6,
+    "disease": "Cholera",
+    "classification": "Confirmed",
+    "outcome": "Dead",
+    "category": "Animal",
+    "reported_at": "2024-01-28T00:00:00"
+  },
+  {
+    "lat": 8.551682,
+    "lon": 10.60474,
+    "true_cluster": 3,
+    "disease": "Lassa Fever",
+    "classification": "Probable",
+    "outcome": "Unknown",
+    "category": "Animal",
+    "reported_at": "2024-01-21T00:00:00"
+  },
+  {
+    "lat": 5.667155,
+    "lon": 6.292726,
+    "true_cluster": 6,
+    "disease": "Cholera",
+    "classification": "Probable",
+    "outcome": "Unknown",
+    "category": "Human",
+    "reported_at": "2024-01-15T00:00:00"
+  },
+  {
+    "lat": 6.543853,
+    "lon": 9.522704,
+    "true_cluster": 1,
+    "disease": "Yellow Fever",
+    "classification": "Probable",
+    "outcome": "Unknown",
+    "category": "Human",
+    "reported_at": "2024-01-31T00:00:00"
+  },
+  {
+    "lat": 7.48577,
+    "lon": 12.500743,
+    "true_cluster": -1,
+    "disease": "Meningitis",
+    "classification": "Suspected",
+    "outcome": "Alive",
+    "category": "Human",
+    "reported_at": "2024-01-26T00:00:00"
+  },
+  {
+    "lat": 10.136953,
+    "lon": 3.917475,
+    "true_cluster": 0,
+    "disease": "Lassa Fever",
+    "classification": "Suspected",
+    "outcome": "Alive",
+    "category": "Human",
+    "reported_at": "2024-01-26T00:00:00"
+  },
+  {
+    "lat": 6.012046,
+    "lon": 6.087204,
+    "true_cluster": 2,
+    "disease": "Yellow Fever",
+    "classification": "Confirmed",
+    "outcome": "Unknown",
+    "category": "Human",
+    "reported_at": "2024-01-03T00:00:00"
+  },
+  {
+    "lat": 6.176646,
+    "lon": 7.042355,
+    "true_cluster": 9,
+    "disease": "Meningitis",
+    "classification": "Probable",
+    "outcome": "Dead",
+    "category": "Environmental",
+    "reported_at": "2024-01-08T00:00:00"
+  },
+  {
+    "lat": 10.978882,
+    "lon": 4.758814,
+    "true_cluster": 5,
+    "disease": "Meningitis",
+    "classification": "Suspected",
+    "outcome": "Alive",
+    "category": "Environmental",
+    "reported_at": "2024-01-15T00:00:00"
+  },
+  {
+    "lat": 7.025333,
+    "lon": 5.600729,
+    "true_cluster": 8,
+    "disease": "Yellow Fever",
+    "classification": "Confirmed",
+    "outcome": "Alive",
+    "category": "Human",
+    "reported_at": "2024-01-27T00:00:00"
+  },
+  {
+    "lat": 10.832102,
+    "lon": 4.5656,
+    "true_cluster": 4,
+    "disease": "Lassa Fever",
+    "classification": "Confirmed",
+    "outcome": "Dead",
+    "category": "Environmental",
+    "reported_at": "2024-01-10T00:00:00"
+  },
+  {
+    "lat": 10.835168,
+    "lon": 4.545489,
+    "true_cluster": 4,
+    "disease": "Lassa Fever",
+    "classification": "Probable",
+    "outcome": "Unknown",
+    "category": "Animal",
+    "reported_at": "2024-01-03T00:00:00"
+  },
+  {
+    "lat": 10.92176,
+    "lon": 4.577078,
+    "true_cluster": 4,
+    "disease": "Lassa Fever",
+    "classification": "Confirmed",
+    "outcome": "Alive",
+    "category": "Human",
+    "reported_at": "2024-01-05T00:00:00"
+  },
+  {
+    "lat": 8.685658,
+    "lon": 10.603348,
+    "true_cluster": 3,
+    "disease": "Lassa Fever",
+    "classification": "Probable",
+    "outcome": "Unknown",
+    "category": "Environmental",
+    "reported_at": "2024-01-13T00:00:00"
+  },
+  {
+    "lat": 4.225851,
+    "lon": 6.816935,
+    "true_cluster": -1,
+    "disease": "Malaria",
+    "classification": "Confirmed",
+    "outcome": "Alive",
+    "category": "Environmental",
+    "reported_at": "2024-01-08T00:00:00"
+  },
+  {
+    "lat": 12.623593,
+    "lon": 8.50493,
+    "true_cluster": 7,
+    "disease": "Yellow Fever",
+    "classification": "Suspected",
+    "outcome": "Alive",
+    "category": "Animal",
+    "reported_at": "2024-01-18T00:00:00"
+  },
+  {
+    "lat": 6.476713,
+    "lon": 9.622388,
+    "true_cluster": 1,
+    "disease": "Yellow Fever",
+    "classification": "Probable",
+    "outcome": "Alive",
+    "category": "Environmental",
+    "reported_at": "2024-01-08T00:00:00"
+  },
+  {
+    "lat": 6.103486,
+    "lon": 6.011466,
+    "true_cluster": 2,
+    "disease": "Yellow Fever",
+    "classification": "Probable",
+    "outcome": "Unknown",
+    "category": "Animal",
+    "reported_at": "2024-01-09T00:00:00"
+  },
+  {
+    "lat": 6.219539,
+    "lon": 7.004073,
+    "true_cluster": 9,
+    "disease": "Meningitis",
+    "classification": "Confirmed",
+    "outcome": "Alive",
+    "category": "Environmental",
+    "reported_at": "2024-01-13T00:00:00"
+  },
+  {
+    "lat": 5.670715,
+    "lon": 6.283794,
+    "true_cluster": 6,
+    "disease": "Cholera",
+    "classification": "Confirmed",
+    "outcome": "Alive",
+    "category": "Environmental",
+    "reported_at": "2024-01-31T00:00:00"
+  },
+  {
+    "lat": 6.44987,
+    "lon": 9.589253,
+    "true_cluster": 1,
+    "disease": "Yellow Fever",
+    "classification": "Confirmed",
+    "outcome": "Dead",
+    "category": "Human",
+    "reported_at": "2024-01-27T00:00:00"
+  },
+  {
+    "lat": 6.140316,
+    "lon": 5.981364,
+    "true_cluster": 2,
+    "disease": "Yellow Fever",
+    "classification": "Confirmed",
+    "outcome": "Alive",
+    "category": "Environmental",
+    "reported_at": "2024-01-31T00:00:00"
+  },
+  {
+    "lat": 6.213251,
+    "lon": 6.94307,
+    "true_cluster": 9,
+    "disease": "Meningitis",
+    "classification": "Probable",
+    "outcome": "Alive",
+    "category": "Human",
+    "reported_at": "2024-01-24T00:00:00"
+  },
+  {
+    "lat": 6.137748,
+    "lon": 6.064652,
+    "true_cluster": 2,
+    "disease": "Yellow Fever",
+    "classification": "Probable",
+    "outcome": "Alive",
+    "category": "Environmental",
+    "reported_at": "2024-01-18T00:00:00"
+  },
+  {
+    "lat": 6.448141,
+    "lon": 9.722154,
+    "true_cluster": 1,
+    "disease": "Yellow Fever",
+    "classification": "Suspected",
+    "outcome": "Dead",
+    "category": "Animal",
+    "reported_at": "2024-01-21T00:00:00"
+  },
+  {
+    "lat": 6.50008,
+    "lon": 9.663228,
+    "true_cluster": 1,
+    "disease": "Yellow Fever",
+    "classification": "Suspected",
+    "outcome": "Dead",
+    "category": "Environmental",
+    "reported_at": "2024-01-17T00:00:00"
+  },
+  {
+    "lat": 8.550393,
+    "lon": 10.486656,
+    "true_cluster": 3,
+    "disease": "Lassa Fever",
+    "classification": "Suspected",
+    "outcome": "Unknown",
+    "category": "Human",
+    "reported_at": "2024-01-10T00:00:00"
+  },
+  {
+    "lat": 7.073461,
+    "lon": 5.581605,
+    "true_cluster": 8,
+    "disease": "Yellow Fever",
+    "classification": "Probable",
+    "outcome": "Alive",
+    "category": "Environmental",
+    "reported_at": "2024-01-14T00:00:00"
+  },
+  {
+    "lat": 6.490189,
+    "lon": 9.687078,
+    "true_cluster": 1,
+    "disease": "Yellow Fever",
+    "classification": "Probable",
+    "outcome": "Dead",
+    "category": "Environmental",
+    "reported_at": "2024-01-03T00:00:00"
+  },
+  {
+    "lat": 5.648699,
+    "lon": 6.262764,
+    "true_cluster": 6,
+    "disease": "Cholera",
+    "classification": "Suspected",
+    "outcome": "Alive",
+    "category": "Human",
+    "reported_at": "2024-01-29T00:00:00"
+  },
+  {
+    "lat": 8.597782,
+    "lon": 10.488861,
+    "true_cluster": 3,
+    "disease": "Lassa Fever",
+    "classification": "Confirmed",
+    "outcome": "Dead",
+    "category": "Animal",
+    "reported_at": "2024-01-17T00:00:00"
+  },
+  {
+    "lat": 8.602103,
+    "lon": 10.653464,
+    "true_cluster": 3,
+    "disease": "Lassa Fever",
+    "classification": "Confirmed",
+    "outcome": "Unknown",
+    "category": "Animal",
+    "reported_at": "2024-01-15T00:00:00"
+  },
+  {
+    "lat": 7.08979,
+    "lon": 5.529766,
+    "true_cluster": 8,
+    "disease": "Yellow Fever",
+    "classification": "Suspected",
+    "outcome": "Unknown",
+    "category": "Environmental",
+    "reported_at": "2024-01-22T00:00:00"
+  },
+  {
+    "lat": 6.2265,
+    "lon": 6.973868,
+    "true_cluster": 9,
+    "disease": "Meningitis",
+    "classification": "Confirmed",
+    "outcome": "Dead",
+    "category": "Human",
+    "reported_at": "2024-01-21T00:00:00"
+  },
+  {
+    "lat": 10.818243,
+    "lon": 4.605005,
+    "true_cluster": 4,
+    "disease": "Lassa Fever",
+    "classification": "Probable",
+    "outcome": "Dead",
+    "category": "Animal",
+    "reported_at": "2024-01-07T00:00:00"
+  },
+  {
+    "lat": 13.68428,
+    "lon": 11.119611,
+    "true_cluster": -1,
+    "disease": "Typhoid",
+    "classification": "Confirmed",
+    "outcome": "Unknown",
+    "category": "Human",
+    "reported_at": "2024-01-04T00:00:00"
+  },
+  {
+    "lat": 6.276156,
+    "lon": 7.081452,
+    "true_cluster": 9,
+    "disease": "Meningitis",
+    "classification": "Confirmed",
+    "outcome": "Unknown",
+    "category": "Human",
+    "reported_at": "2024-01-24T00:00:00"
+  },
+  {
+    "lat": 10.998485,
+    "lon": 4.753396,
+    "true_cluster": 5,
+    "disease": "Meningitis",
+    "classification": "Confirmed",
+    "outcome": "Dead",
+    "category": "Environmental",
+    "reported_at": "2024-01-22T00:00:00"
+  },
+  {
+    "lat": 9.376086,
+    "lon": 4.718508,
+    "true_cluster": -1,
+    "disease": "Meningitis",
+    "classification": "Confirmed",
+    "outcome": "Unknown",
+    "category": "Animal",
+    "reported_at": "2024-01-18T00:00:00"
+  },
+  {
+    "lat": 10.82701,
+    "lon": 4.625289,
+    "true_cluster": 4,
+    "disease": "Lassa Fever",
+    "classification": "Confirmed",
+    "outcome": "Dead",
+    "category": "Human",
+    "reported_at": "2024-01-26T00:00:00"
+  },
+  {
+    "lat": 6.218122,
+    "lon": 7.068068,
+    "true_cluster": 9,
+    "disease": "Meningitis",
+    "classification": "Suspected",
+    "outcome": "Unknown",
+    "category": "Animal",
+    "reported_at": "2024-01-26T00:00:00"
+  },
+  {
+    "lat": 5.589775,
+    "lon": 13.892707,
+    "true_cluster": -1,
+    "disease": "Lassa Fever",
+    "classification": "Suspected",
+    "outcome": "Unknown",
+    "category": "Animal",
+    "reported_at": "2024-01-09T00:00:00"
+  },
+  {
+    "lat": 11.035953,
+    "lon": 4.933914,
+    "true_cluster": 5,
+    "disease": "Meningitis",
+    "classification": "Suspected",
+    "outcome": "Unknown",
+    "category": "Human",
+    "reported_at": "2024-01-25T00:00:00"
+  },
+  {
+    "lat": 11.065355,
+    "lon": 4.875772,
+    "true_cluster": 5,
+    "disease": "Meningitis",
+    "classification": "Suspected",
+    "outcome": "Unknown",
+    "category": "Environmental",
+    "reported_at": "2024-01-26T00:00:00"
+  },
+  {
+    "lat": 8.679281,
+    "lon": 10.545406,
+    "true_cluster": 3,
+    "disease": "Lassa Fever",
+    "classification": "Probable",
+    "outcome": "Dead",
+    "category": "Environmental",
+    "reported_at": "2024-01-26T00:00:00"
+  },
+  {
+    "lat": 5.505657,
+    "lon": 6.24682,
+    "true_cluster": 6,
+    "disease": "Cholera",
+    "classification": "Suspected",
+    "outcome": "Unknown",
+    "category": "Human",
+    "reported_at": "2024-01-10T00:00:00"
+  },
+  {
+    "lat": 4.0445,
+    "lon": 5.277553,
+    "true_cluster": -1,
+    "disease": "Lassa Fever",
+    "classification": "Confirmed",
+    "outcome": "Alive",
+    "category": "Environmental",
+    "reported_at": "2024-01-04T00:00:00"
+  },
+  {
+    "lat": 8.553326,
+    "lon": 5.182408,
+    "true_cluster": -1,
+    "disease": "Meningitis",
+    "classification": "Probable",
+    "outcome": "Dead",
+    "category": "Human",
+    "reported_at": "2024-01-15T00:00:00"
+  },
+  {
+    "lat": 10.037812,
+    "lon": 3.976072,
+    "true_cluster": 0,
+    "disease": "Lassa Fever",
+    "classification": "Probable",
+    "outcome": "Alive",
+    "category": "Animal",
+    "reported_at": "2024-01-15T00:00:00"
+  },
+  {
+    "lat": 12.676416,
+    "lon": 8.567332,
+    "true_cluster": 7,
+    "disease": "Yellow Fever",
+    "classification": "Confirmed",
+    "outcome": "Unknown",
+    "category": "Animal",
+    "reported_at": "2024-01-19T00:00:00"
+  },
+  {
+    "lat": 11.024898,
+    "lon": 4.899907,
+    "true_cluster": 5,
+    "disease": "Meningitis",
+    "classification": "Confirmed",
+    "outcome": "Alive",
+    "category": "Environmental",
+    "reported_at": "2024-01-20T00:00:00"
+  },
+  {
+    "lat": 12.600911,
+    "lon": 8.56583,
+    "true_cluster": 7,
+    "disease": "Yellow Fever",
+    "classification": "Suspected",
+    "outcome": "Dead",
+    "category": "Human",
+    "reported_at": "2024-01-19T00:00:00"
+  },
+  {
+    "lat": 12.692556,
+    "lon": 8.499222,
+    "true_cluster": 7,
+    "disease": "Yellow Fever",
+    "classification": "Probable",
+    "outcome": "Dead",
+    "category": "Human",
+    "reported_at": "2024-01-10T00:00:00"
+  },
+  {
+    "lat": 12.606694,
+    "lon": 8.48825,
+    "true_cluster": 7,
+    "disease": "Yellow Fever",
+    "classification": "Suspected",
+    "outcome": "Alive",
+    "category": "Animal",
+    "reported_at": "2024-01-30T00:00:00"
+  },
+  {
+    "lat": 8.606234,
+    "lon": 10.654842,
+    "true_cluster": 3,
+    "disease": "Lassa Fever",
+    "classification": "Suspected",
+    "outcome": "Alive",
+    "category": "Animal",
+    "reported_at": "2024-01-26T00:00:00"
+  },
+  {
+    "lat": 5.623444,
+    "lon": 6.259487,
+    "true_cluster": 6,
+    "disease": "Cholera",
+    "classification": "Probable",
+    "outcome": "Dead",
+    "category": "Environmental",
+    "reported_at": "2024-01-09T00:00:00"
+  },
+  {
+    "lat": 9.993875,
+    "lon": 4.050113,
+    "true_cluster": 0,
+    "disease": "Lassa Fever",
+    "classification": "Probable",
+    "outcome": "Dead",
+    "category": "Animal",
+    "reported_at": "2024-01-23T00:00:00"
+  },
+  {
+    "lat": 8.724481,
+    "lon": 10.469323,
+    "true_cluster": 3,
+    "disease": "Lassa Fever",
+    "classification": "Confirmed",
+    "outcome": "Alive",
+    "category": "Environmental",
+    "reported_at": "2024-01-24T00:00:00"
+  },
+  {
+    "lat": 10.841461,
+    "lon": 4.719606,
+    "true_cluster": 4,
+    "disease": "Lassa Fever",
+    "classification": "Probable",
+    "outcome": "Dead",
+    "category": "Animal",
+    "reported_at": "2024-01-01T00:00:00"
+  },
+  {
+    "lat": 5.578618,
+    "lon": 6.253196,
+    "true_cluster": 6,
+    "disease": "Cholera",
+    "classification": "Suspected",
+    "outcome": "Unknown",
+    "category": "Environmental",
+    "reported_at": "2024-01-19T00:00:00"
+  },
+  {
+    "lat": 10.053937,
+    "lon": 3.904239,
+    "true_cluster": 0,
+    "disease": "Lassa Fever",
+    "classification": "Confirmed",
+    "outcome": "Alive",
+    "category": "Environmental",
+    "reported_at": "2024-01-21T00:00:00"
+  },
+  {
+    "lat": 6.209192,
+    "lon": 6.014333,
+    "true_cluster": 2,
+    "disease": "Yellow Fever",
+    "classification": "Probable",
+    "outcome": "Unknown",
+    "category": "Environmental",
+    "reported_at": "2024-01-16T00:00:00"
+  },
+  {
+    "lat": 10.902046,
+    "lon": 4.64737,
+    "true_cluster": 4,
+    "disease": "Lassa Fever",
+    "classification": "Suspected",
+    "outcome": "Unknown",
+    "category": "Environmental",
+    "reported_at": "2024-01-18T00:00:00"
+  },
+  {
+    "lat": 6.066804,
+    "lon": 6.055105,
+    "true_cluster": 2,
+    "disease": "Yellow Fever",
+    "classification": "Confirmed",
+    "outcome": "Unknown",
+    "category": "Animal",
+    "reported_at": "2024-01-01T00:00:00"
+  },
+  {
+    "lat": 12.663309,
+    "lon": 8.549531,
+    "true_cluster": 7,
+    "disease": "Yellow Fever",
+    "classification": "Suspected",
+    "outcome": "Dead",
+    "category": "Animal",
+    "reported_at": "2024-01-06T00:00:00"
+  },
+  {
+    "lat": 10.930776,
+    "lon": 4.836803,
+    "true_cluster": 5,
+    "disease": "Meningitis",
+    "classification": "Suspected",
+    "outcome": "Dead",
+    "category": "Human",
+    "reported_at": "2024-01-12T00:00:00"
+  },
+  {
+    "lat": 5.612101,
+    "lon": 6.175655,
+    "true_cluster": 6,
+    "disease": "Cholera",
+    "classification": "Confirmed",
+    "outcome": "Unknown",
+    "category": "Human",
+    "reported_at": "2024-01-26T00:00:00"
+  },
+  {
+    "lat": 11.033669,
+    "lon": 4.853132,
+    "true_cluster": 5,
+    "disease": "Meningitis",
+    "classification": "Probable",
+    "outcome": "Unknown",
+    "category": "Animal",
+    "reported_at": "2024-01-27T00:00:00"
+  },
+  {
+    "lat": 6.81085,
+    "lon": 9.165223,
+    "true_cluster": -1,
+    "disease": "Lassa Fever",
+    "classification": "Confirmed",
+    "outcome": "Dead",
+    "category": "Animal",
+    "reported_at": "2024-01-19T00:00:00"
+  },
+  {
+    "lat": 6.45066,
+    "lon": 9.637562,
+    "true_cluster": 1,
+    "disease": "Yellow Fever",
+    "classification": "Suspected",
+    "outcome": "Dead",
+    "category": "Environmental",
+    "reported_at": "2024-01-31T00:00:00"
+  },
+  {
+    "lat": 10.089073,
+    "lon": 3.948838,
+    "true_cluster": 0,
+    "disease": "Lassa Fever",
+    "classification": "Suspected",
+    "outcome": "Alive",
+    "category": "Animal",
+    "reported_at": "2024-01-25T00:00:00"
+  },
+  {
+    "lat": 7.124335,
+    "lon": 5.523611,
+    "true_cluster": 8,
+    "disease": "Yellow Fever",
+    "classification": "Confirmed",
+    "outcome": "Dead",
+    "category": "Environmental",
+    "reported_at": "2024-01-20T00:00:00"
+  },
+  {
+    "lat": 10.112609,
+    "lon": 3.861025,
+    "true_cluster": 0,
+    "disease": "Lassa Fever",
+    "classification": "Confirmed",
+    "outcome": "Dead",
+    "category": "Environmental",
+    "reported_at": "2024-01-19T00:00:00"
+  },
+  {
+    "lat": 10.09735,
+    "lon": 3.946529,
+    "true_cluster": 0,
+    "disease": "Lassa Fever",
+    "classification": "Suspected",
+    "outcome": "Unknown",
+    "category": "Human",
+    "reported_at": "2024-01-28T00:00:00"
+  },
+  {
+    "lat": 7.108269,
+    "lon": 5.59625,
+    "true_cluster": 8,
+    "disease": "Yellow Fever",
+    "classification": "Suspected",
+    "outcome": "Dead",
+    "category": "Animal",
+    "reported_at": "2024-01-30T00:00:00"
+  },
+  {
+    "lat": 11.036262,
+    "lon": 4.844803,
+    "true_cluster": 5,
+    "disease": "Meningitis",
+    "classification": "Confirmed",
+    "outcome": "Dead",
+    "category": "Human",
+    "reported_at": "2024-01-15T00:00:00"
+  },
+  {
+    "lat": 10.819681,
+    "lon": 4.608435,
+    "true_cluster": 4,
+    "disease": "Lassa Fever",
+    "classification": "Confirmed",
+    "outcome": "Unknown",
+    "category": "Animal",
+    "reported_at": "2024-01-30T00:00:00"
+  },
+  {
+    "lat": 12.715122,
+    "lon": 8.582432,
+    "true_cluster": 7,
+    "disease": "Yellow Fever",
+    "classification": "Suspected",
+    "outcome": "Unknown",
+    "category": "Animal",
+    "reported_at": "2024-01-21T00:00:00"
+  },
+  {
+    "lat": 7.019731,
+    "lon": 5.550983,
+    "true_cluster": 8,
+    "disease": "Yellow Fever",
+    "classification": "Confirmed",
+    "outcome": "Dead",
+    "category": "Human",
+    "reported_at": "2024-01-08T00:00:00"
+  },
+  {
+    "lat": 6.064719,
+    "lon": 5.945605,
+    "true_cluster": 2,
+    "disease": "Yellow Fever",
+    "classification": "Suspected",
+    "outcome": "Alive",
+    "category": "Human",
+    "reported_at": "2024-01-18T00:00:00"
+  },
+  {
+    "lat": 6.48498,
+    "lon": 9.673302,
+    "true_cluster": 1,
+    "disease": "Yellow Fever",
+    "classification": "Confirmed",
+    "outcome": "Dead",
+    "category": "Human",
+    "reported_at": "2024-01-04T00:00:00"
+  },
+  {
+    "lat": 6.507093,
+    "lon": 9.612709,
+    "true_cluster": 1,
+    "disease": "Yellow Fever",
+    "classification": "Suspected",
+    "outcome": "Alive",
+    "category": "Animal",
+    "reported_at": "2024-01-25T00:00:00"
+  },
+  {
+    "lat": 7.049556,
+    "lon": 5.563653,
+    "true_cluster": 8,
+    "disease": "Yellow Fever",
+    "classification": "Probable",
+    "outcome": "Alive",
+    "category": "Animal",
+    "reported_at": "2024-01-11T00:00:00"
+  },
+  {
+    "lat": 6.193639,
+    "lon": 7.053942,
+    "true_cluster": 9,
+    "disease": "Meningitis",
+    "classification": "Confirmed",
+    "outcome": "Unknown",
+    "category": "Environmental",
+    "reported_at": "2024-01-16T00:00:00"
+  },
+  {
+    "lat": 10.261795,
+    "lon": 12.740426,
+    "true_cluster": -1,
+    "disease": "Malaria",
+    "classification": "Suspected",
+    "outcome": "Alive",
+    "category": "Animal",
+    "reported_at": "2024-01-15T00:00:00"
+  },
+  {
+    "lat": 11.219939,
+    "lon": 8.129366,
+    "true_cluster": -1,
+    "disease": "Malaria",
+    "classification": "Probable",
+    "outcome": "Alive",
+    "category": "Environmental",
+    "reported_at": "2024-01-04T00:00:00"
+  },
+  {
+    "lat": 12.662113,
+    "lon": 8.46536,
+    "true_cluster": 7,
+    "disease": "Yellow Fever",
+    "classification": "Confirmed",
+    "outcome": "Unknown",
+    "category": "Environmental",
+    "reported_at": "2024-01-26T00:00:00"
+  },
+  {
+    "lat": 12.677016,
+    "lon": 8.492524,
+    "true_cluster": 7,
+    "disease": "Yellow Fever",
+    "classification": "Suspected",
+    "outcome": "Unknown",
+    "category": "Human",
+    "reported_at": "2024-01-02T00:00:00"
+  },
+  {
+    "lat": 6.502449,
+    "lon": 9.643579,
+    "true_cluster": 1,
+    "disease": "Yellow Fever",
+    "classification": "Suspected",
+    "outcome": "Dead",
+    "category": "Environmental",
+    "reported_at": "2024-01-19T00:00:00"
+  },
+  {
+    "lat": 6.445726,
+    "lon": 9.606954,
+    "true_cluster": 1,
+    "disease": "Yellow Fever",
+    "classification": "Suspected",
+    "outcome": "Unknown",
+    "category": "Environmental",
+    "reported_at": "2024-01-13T00:00:00"
+  },
+  {
+    "lat": 10.843664,
+    "lon": 4.622243,
+    "true_cluster": 4,
+    "disease": "Lassa Fever",
+    "classification": "Confirmed",
+    "outcome": "Dead",
+    "category": "Human",
+    "reported_at": "2024-01-25T00:00:00"
+  },
+  {
+    "lat": 6.121917,
+    "lon": 6.073367,
+    "true_cluster": 2,
+    "disease": "Yellow Fever",
+    "classification": "Probable",
+    "outcome": "Dead",
+    "category": "Animal",
+    "reported_at": "2024-01-09T00:00:00"
+  },
+  {
+    "lat": 6.463271,
+    "lon": 9.65792,
+    "true_cluster": 1,
+    "disease": "Yellow Fever",
+    "classification": "Suspected",
+    "outcome": "Unknown",
+    "category": "Animal",
+    "reported_at": "2024-01-25T00:00:00"
+  },
+  {
+    "lat": 6.183552,
+    "lon": 6.957206,
+    "true_cluster": 9,
+    "disease": "Meningitis",
+    "classification": "Confirmed",
+    "outcome": "Alive",
+    "category": "Human",
+    "reported_at": "2024-01-16T00:00:00"
+  },
+  {
+    "lat": 7.001443,
+    "lon": 5.543876,
+    "true_cluster": 8,
+    "disease": "Yellow Fever",
+    "classification": "Probable",
+    "outcome": "Unknown",
+    "category": "Environmental",
+    "reported_at": "2024-01-27T00:00:00"
+  },
+  {
+    "lat": 8.610287,
+    "lon": 10.507281,
+    "true_cluster": 3,
+    "disease": "Lassa Fever",
+    "classification": "Suspected",
+    "outcome": "Unknown",
+    "category": "Animal",
+    "reported_at": "2024-01-09T00:00:00"
+  },
+  {
+    "lat": 7.010071,
+    "lon": 5.568246,
+    "true_cluster": 8,
+    "disease": "Yellow Fever",
+    "classification": "Probable",
+    "outcome": "Dead",
+    "category": "Human",
+    "reported_at": "2024-01-07T00:00:00"
+  },
+  {
+    "lat": 7.059861,
+    "lon": 5.499231,
+    "true_cluster": 8,
+    "disease": "Yellow Fever",
+    "classification": "Probable",
+    "outcome": "Alive",
+    "category": "Human",
+    "reported_at": "2024-01-10T00:00:00"
+  },
+  {
+    "lat": 6.228481,
+    "lon": 6.915972,
+    "true_cluster": 9,
+    "disease": "Meningitis",
+    "classification": "Suspected",
+    "outcome": "Unknown",
+    "category": "Animal",
+    "reported_at": "2024-01-31T00:00:00"
+  },
+  {
+    "lat": 11.115762,
+    "lon": 4.881017,
+    "true_cluster": 5,
+    "disease": "Meningitis",
+    "classification": "Confirmed",
+    "outcome": "Alive",
+    "category": "Animal",
+    "reported_at": "2024-01-10T00:00:00"
+  },
+  {
+    "lat": 10.910461,
+    "lon": 4.666347,
+    "true_cluster": 4,
+    "disease": "Lassa Fever",
+    "classification": "Confirmed",
+    "outcome": "Dead",
+    "category": "Human",
+    "reported_at": "2024-01-05T00:00:00"
+  },
+  {
+    "lat": 10.831172,
+    "lon": 4.604508,
+    "true_cluster": 4,
+    "disease": "Lassa Fever",
+    "classification": "Probable",
+    "outcome": "Unknown",
+    "category": "Animal",
+    "reported_at": "2024-01-26T00:00:00"
+  },
+  {
+    "lat": 11.002327,
+    "lon": 4.85761,
+    "true_cluster": 5,
+    "disease": "Meningitis",
+    "classification": "Probable",
+    "outcome": "Alive",
+    "category": "Animal",
+    "reported_at": "2024-01-10T00:00:00"
+  },
+  {
+    "lat": 6.516879,
+    "lon": 9.598203,
+    "true_cluster": 1,
+    "disease": "Yellow Fever",
+    "classification": "Probable",
+    "outcome": "Dead",
+    "category": "Human",
+    "reported_at": "2024-01-14T00:00:00"
+  },
+  {
+    "lat": 6.244164,
+    "lon": 6.982819,
+    "true_cluster": 9,
+    "disease": "Meningitis",
+    "classification": "Suspected",
+    "outcome": "Alive",
+    "category": "Environmental",
+    "reported_at": "2024-01-05T00:00:00"
+  },
+  {
+    "lat": 12.68193,
+    "lon": 8.488392,
+    "true_cluster": 7,
+    "disease": "Yellow Fever",
+    "classification": "Probable",
+    "outcome": "Alive",
+    "category": "Animal",
+    "reported_at": "2024-01-24T00:00:00"
+  },
+  {
+    "lat": 6.179135,
+    "lon": 6.115103,
+    "true_cluster": 2,
+    "disease": "Yellow Fever",
+    "classification": "Suspected",
+    "outcome": "Dead",
+    "category": "Environmental",
+    "reported_at": "2024-01-04T00:00:00"
+  },
+  {
+    "lat": 8.626463,
+    "lon": 10.601499,
+    "true_cluster": 3,
+    "disease": "Lassa Fever",
+    "classification": "Probable",
+    "outcome": "Unknown",
+    "category": "Environmental",
+    "reported_at": "2024-01-22T00:00:00"
+  },
+  {
+    "lat": 10.036379,
+    "lon": 3.950489,
+    "true_cluster": 0,
+    "disease": "Lassa Fever",
+    "classification": "Confirmed",
+    "outcome": "Dead",
+    "category": "Human",
+    "reported_at": "2024-01-09T00:00:00"
+  },
+  {
+    "lat": 12.676872,
+    "lon": 8.615636,
+    "true_cluster": 7,
+    "disease": "Yellow Fever",
+    "classification": "Probable",
+    "outcome": "Unknown",
+    "category": "Animal",
+    "reported_at": "2024-01-17T00:00:00"
+  },
+  {
+    "lat": 11.027873,
+    "lon": 4.854374,
+    "true_cluster": 5,
+    "disease": "Meningitis",
+    "classification": "Confirmed",
+    "outcome": "Unknown",
+    "category": "Human",
+    "reported_at": "2024-01-08T00:00:00"
+  },
+  {
+    "lat": 8.63746,
+    "lon": 10.620205,
+    "true_cluster": 3,
+    "disease": "Lassa Fever",
+    "classification": "Confirmed",
+    "outcome": "Dead",
+    "category": "Animal",
+    "reported_at": "2024-01-09T00:00:00"
+  },
+  {
+    "lat": 8.610325,
+    "lon": 10.551907,
+    "true_cluster": 3,
+    "disease": "Lassa Fever",
+    "classification": "Confirmed",
+    "outcome": "Alive",
+    "category": "Animal",
+    "reported_at": "2024-01-04T00:00:00"
+  },
+  {
+    "lat": 10.821402,
+    "lon": 4.579055,
+    "true_cluster": 4,
+    "disease": "Lassa Fever",
+    "classification": "Confirmed",
+    "outcome": "Dead",
+    "category": "Animal",
+    "reported_at": "2024-01-20T00:00:00"
+  },
+  {
+    "lat": 10.111521,
+    "lon": 3.949387,
+    "true_cluster": 0,
+    "disease": "Lassa Fever",
+    "classification": "Confirmed",
+    "outcome": "Alive",
+    "category": "Environmental",
+    "reported_at": "2024-01-24T00:00:00"
+  },
+  {
+    "lat": 8.676432,
+    "lon": 10.552264,
+    "true_cluster": 3,
+    "disease": "Lassa Fever",
+    "classification": "Probable",
+    "outcome": "Unknown",
+    "category": "Animal",
+    "reported_at": "2024-01-04T00:00:00"
+  },
+  {
+    "lat": 8.698939,
+    "lon": 10.549931,
+    "true_cluster": 3,
+    "disease": "Lassa Fever",
+    "classification": "Confirmed",
+    "outcome": "Alive",
+    "category": "Animal",
+    "reported_at": "2024-01-03T00:00:00"
+  },
+  {
+    "lat": 6.480813,
+    "lon": 9.646394,
+    "true_cluster": 1,
+    "disease": "Yellow Fever",
+    "classification": "Probable",
+    "outcome": "Unknown",
+    "category": "Environmental",
+    "reported_at": "2024-01-29T00:00:00"
+  },
+  {
+    "lat": 11.014931,
+    "lon": 4.752373,
+    "true_cluster": 5,
+    "disease": "Meningitis",
+    "classification": "Probable",
+    "outcome": "Unknown",
+    "category": "Human",
+    "reported_at": "2024-01-29T00:00:00"
+  },
+  {
+    "lat": 6.466447,
+    "lon": 9.664275,
+    "true_cluster": 1,
+    "disease": "Yellow Fever",
+    "classification": "Confirmed",
+    "outcome": "Alive",
+    "category": "Environmental",
+    "reported_at": "2024-01-20T00:00:00"
+  },
+  {
+    "lat": 6.980186,
+    "lon": 5.6078,
+    "true_cluster": 8,
+    "disease": "Yellow Fever",
+    "classification": "Confirmed",
+    "outcome": "Alive",
+    "category": "Environmental",
+    "reported_at": "2024-01-15T00:00:00"
+  },
+  {
+    "lat": 6.498831,
+    "lon": 9.638989,
+    "true_cluster": 1,
+    "disease": "Yellow Fever",
+    "classification": "Suspected",
+    "outcome": "Dead",
+    "category": "Animal",
+    "reported_at": "2024-01-06T00:00:00"
+  },
+  {
+    "lat": 12.692485,
+    "lon": 8.579614,
+    "true_cluster": 7,
+    "disease": "Yellow Fever",
+    "classification": "Confirmed",
+    "outcome": "Unknown",
+    "category": "Animal",
+    "reported_at": "2024-01-17T00:00:00"
+  },
+  {
+    "lat": 11.035885,
+    "lon": 4.81818,
+    "true_cluster": 5,
+    "disease": "Meningitis",
+    "classification": "Suspected",
+    "outcome": "Dead",
+    "category": "Animal",
+    "reported_at": "2024-01-22T00:00:00"
+  },
+  {
+    "lat": 12.595452,
+    "lon": 8.5468,
+    "true_cluster": 7,
+    "disease": "Yellow Fever",
+    "classification": "Confirmed",
+    "outcome": "Alive",
+    "category": "Human",
+    "reported_at": "2024-01-15T00:00:00"
+  },
+  {
+    "lat": 5.550561,
+    "lon": 6.21217,
+    "true_cluster": 6,
+    "disease": "Cholera",
+    "classification": "Probable",
+    "outcome": "Alive",
+    "category": "Human",
+    "reported_at": "2024-01-12T00:00:00"
+  },
+  {
+    "lat": 7.064232,
+    "lon": 5.597265,
+    "true_cluster": 8,
+    "disease": "Yellow Fever",
+    "classification": "Suspected",
+    "outcome": "Alive",
+    "category": "Animal",
+    "reported_at": "2024-01-15T00:00:00"
+  },
+  {
+    "lat": 5.57372,
+    "lon": 6.254288,
+    "true_cluster": 6,
+    "disease": "Cholera",
+    "classification": "Confirmed",
+    "outcome": "Unknown",
+    "category": "Human",
+    "reported_at": "2024-01-31T00:00:00"
+  },
+  {
+    "lat": 10.11622,
+    "lon": 3.939412,
+    "true_cluster": 0,
+    "disease": "Lassa Fever",
+    "classification": "Confirmed",
+    "outcome": "Alive",
+    "category": "Environmental",
+    "reported_at": "2024-01-10T00:00:00"
+  },
+  {
+    "lat": 7.097725,
+    "lon": 5.546492,
+    "true_cluster": 8,
+    "disease": "Yellow Fever",
+    "classification": "Probable",
+    "outcome": "Unknown",
+    "category": "Human",
+    "reported_at": "2024-01-08T00:00:00"
+  },
+  {
+    "lat": 10.161512,
+    "lon": 12.118192,
+    "true_cluster": -1,
+    "disease": "Cholera",
+    "classification": "Suspected",
+    "outcome": "Unknown",
+    "category": "Animal",
+    "reported_at": "2024-01-18T00:00:00"
+  },
+  {
+    "lat": 5.857537,
+    "lon": 10.32602,
+    "true_cluster": -1,
+    "disease": "Yellow Fever",
+    "classification": "Confirmed",
+    "outcome": "Alive",
+    "category": "Environmental",
+    "reported_at": "2024-01-06T00:00:00"
+  },
+  {
+    "lat": 6.143952,
+    "lon": 7.020024,
+    "true_cluster": 9,
+    "disease": "Meningitis",
+    "classification": "Suspected",
+    "outcome": "Unknown",
+    "category": "Environmental",
+    "reported_at": "2024-01-22T00:00:00"
+  },
+  {
+    "lat": 6.102354,
+    "lon": 6.027325,
+    "true_cluster": 2,
+    "disease": "Yellow Fever",
+    "classification": "Probable",
+    "outcome": "Dead",
+    "category": "Environmental",
+    "reported_at": "2024-01-24T00:00:00"
+  },
+  {
+    "lat": 6.998213,
+    "lon": 5.515882,
+    "true_cluster": 8,
+    "disease": "Yellow Fever",
+    "classification": "Suspected",
+    "outcome": "Dead",
+    "category": "Human",
+    "reported_at": "2024-01-18T00:00:00"
+  },
+  {
+    "lat": 6.283778,
+    "lon": 6.965365,
+    "true_cluster": 9,
+    "disease": "Meningitis",
+    "classification": "Confirmed",
+    "outcome": "Dead",
+    "category": "Environmental",
+    "reported_at": "2024-01-19T00:00:00"
+  },
+  {
+    "lat": 10.795119,
+    "lon": 4.543069,
+    "true_cluster": 4,
+    "disease": "Lassa Fever",
+    "classification": "Confirmed",
+    "outcome": "Alive",
+    "category": "Animal",
+    "reported_at": "2024-01-15T00:00:00"
+  },
+  {
+    "lat": 5.634531,
+    "lon": 6.261478,
+    "true_cluster": 6,
+    "disease": "Cholera",
+    "classification": "Suspected",
+    "outcome": "Alive",
+    "category": "Animal",
+    "reported_at": "2024-01-06T00:00:00"
+  },
+  {
+    "lat": 8.664183,
+    "lon": 10.616995,
+    "true_cluster": 3,
+    "disease": "Lassa Fever",
+    "classification": "Confirmed",
+    "outcome": "Dead",
+    "category": "Animal",
+    "reported_at": "2024-01-11T00:00:00"
+  },
+  {
+    "lat": 11.005068,
+    "lon": 4.832374,
+    "true_cluster": 5,
+    "disease": "Meningitis",
+    "classification": "Confirmed",
+    "outcome": "Dead",
+    "category": "Environmental",
+    "reported_at": "2024-01-05T00:00:00"
+  },
+  {
+    "lat": 6.071874,
+    "lon": 6.135698,
+    "true_cluster": 2,
+    "disease": "Yellow Fever",
+    "classification": "Probable",
+    "outcome": "Unknown",
+    "category": "Human",
+    "reported_at": "2024-01-10T00:00:00"
+  },
+  {
+    "lat": 6.15831,
+    "lon": 6.033783,
+    "true_cluster": 2,
+    "disease": "Yellow Fever",
+    "classification": "Probable",
+    "outcome": "Dead",
+    "category": "Environmental",
+    "reported_at": "2024-01-31T00:00:00"
+  },
+  {
+    "lat": 7.590392,
+    "lon": 2.815001,
+    "true_cluster": -1,
+    "disease": "Cholera",
+    "classification": "Suspected",
+    "outcome": "Dead",
+    "category": "Environmental",
+    "reported_at": "2024-01-17T00:00:00"
+  },
+  {
+    "lat": 6.576461,
+    "lon": 9.638883,
+    "true_cluster": 1,
+    "disease": "Yellow Fever",
+    "classification": "Suspected",
+    "outcome": "Unknown",
+    "category": "Animal",
+    "reported_at": "2024-01-18T00:00:00"
+  },
+  {
+    "lat": 8.622629,
+    "lon": 10.564008,
+    "true_cluster": 3,
+    "disease": "Lassa Fever",
+    "classification": "Probable",
+    "outcome": "Unknown",
+    "category": "Human",
+    "reported_at": "2024-01-20T00:00:00"
+  },
+  {
+    "lat": 10.867766,
+    "lon": 4.694116,
+    "true_cluster": 4,
+    "disease": "Lassa Fever",
+    "classification": "Confirmed",
+    "outcome": "Alive",
+    "category": "Animal",
+    "reported_at": "2024-01-15T00:00:00"
+  },
+  {
+    "lat": 6.23751,
+    "lon": 6.976492,
+    "true_cluster": 9,
+    "disease": "Meningitis",
+    "classification": "Confirmed",
+    "outcome": "Alive",
+    "category": "Animal",
+    "reported_at": "2024-01-11T00:00:00"
+  },
+  {
+    "lat": 10.763338,
+    "lon": 4.596881,
+    "true_cluster": 4,
+    "disease": "Lassa Fever",
+    "classification": "Suspected",
+    "outcome": "Unknown",
+    "category": "Animal",
+    "reported_at": "2024-01-08T00:00:00"
+  },
+  {
+    "lat": 6.490159,
+    "lon": 9.652116,
+    "true_cluster": 1,
+    "disease": "Yellow Fever",
+    "classification": "Suspected",
+    "outcome": "Unknown",
+    "category": "Animal",
+    "reported_at": "2024-01-05T00:00:00"
+  },
+  {
+    "lat": 10.098597,
+    "lon": 4.044804,
+    "true_cluster": 0,
+    "disease": "Lassa Fever",
+    "classification": "Confirmed",
+    "outcome": "Dead",
+    "category": "Human",
+    "reported_at": "2024-01-12T00:00:00"
+  },
+  {
+    "lat": 6.118515,
+    "lon": 5.922442,
+    "true_cluster": -1,
+    "disease": "Lassa Fever",
+    "classification": "Probable",
+    "outcome": "Unknown",
+    "category": "Environmental",
+    "reported_at": "2024-01-05T00:00:00"
+  },
+  {
+    "lat": 8.626374,
+    "lon": 10.584229,
+    "true_cluster": 3,
+    "disease": "Lassa Fever",
+    "classification": "Suspected",
+    "outcome": "Dead",
+    "category": "Human",
+    "reported_at": "2024-01-17T00:00:00"
+  },
+  {
+    "lat": 8.652377,
+    "lon": 10.473572,
+    "true_cluster": 3,
+    "disease": "Lassa Fever",
+    "classification": "Probable",
+    "outcome": "Dead",
+    "category": "Environmental",
+    "reported_at": "2024-01-23T00:00:00"
+  },
+  {
+    "lat": 11.007072,
+    "lon": 4.90869,
+    "true_cluster": 5,
+    "disease": "Meningitis",
+    "classification": "Suspected",
+    "outcome": "Unknown",
+    "category": "Environmental",
+    "reported_at": "2024-01-11T00:00:00"
+  },
+  {
+    "lat": 8.575876,
+    "lon": 10.624842,
+    "true_cluster": 3,
+    "disease": "Lassa Fever",
+    "classification": "Probable",
+    "outcome": "Alive",
+    "category": "Animal",
+    "reported_at": "2024-01-24T00:00:00"
+  },
+  {
+    "lat": 10.856271,
+    "lon": 4.635382,
+    "true_cluster": 4,
+    "disease": "Lassa Fever",
+    "classification": "Probable",
+    "outcome": "Unknown",
+    "category": "Animal",
+    "reported_at": "2024-01-04T00:00:00"
+  },
+  {
+    "lat": 7.021473,
+    "lon": 5.552296,
+    "true_cluster": 8,
+    "disease": "Yellow Fever",
+    "classification": "Suspected",
+    "outcome": "Alive",
+    "category": "Animal",
+    "reported_at": "2024-01-02T00:00:00"
+  },
+  {
+    "lat": 11.37613,
+    "lon": 10.969603,
+    "true_cluster": -1,
+    "disease": "Yellow Fever",
+    "classification": "Confirmed",
+    "outcome": "Unknown",
+    "category": "Animal",
+    "reported_at": "2024-01-06T00:00:00"
+  },
+  {
+    "lat": 10.879435,
+    "lon": 4.6017,
+    "true_cluster": 4,
+    "disease": "Lassa Fever",
+    "classification": "Suspected",
+    "outcome": "Alive",
+    "category": "Environmental",
+    "reported_at": "2024-01-09T00:00:00"
+  },
+  {
+    "lat": 6.163982,
+    "lon": 6.946857,
+    "true_cluster": 9,
+    "disease": "Meningitis",
+    "classification": "Probable",
+    "outcome": "Dead",
+    "category": "Animal",
+    "reported_at": "2024-01-26T00:00:00"
+  },
+  {
+    "lat": 6.22089,
+    "lon": 7.073242,
+    "true_cluster": 9,
+    "disease": "Meningitis",
+    "classification": "Confirmed",
+    "outcome": "Dead",
+    "category": "Environmental",
+    "reported_at": "2024-01-20T00:00:00"
+  },
+  {
+    "lat": 7.08648,
+    "lon": 5.62079,
+    "true_cluster": 8,
+    "disease": "Yellow Fever",
+    "classification": "Confirmed",
+    "outcome": "Dead",
+    "category": "Environmental",
+    "reported_at": "2024-01-05T00:00:00"
+  },
+  {
+    "lat": 10.868459,
+    "lon": 4.54747,
+    "true_cluster": 4,
+    "disease": "Lassa Fever",
+    "classification": "Confirmed",
+    "outcome": "Unknown",
+    "category": "Human",
+    "reported_at": "2024-01-15T00:00:00"
+  },
+  {
+    "lat": 11.02096,
+    "lon": 4.813484,
+    "true_cluster": 5,
+    "disease": "Meningitis",
+    "classification": "Suspected",
+    "outcome": "Dead",
+    "category": "Human",
+    "reported_at": "2024-01-18T00:00:00"
+  },
+  {
+    "lat": 10.810431,
+    "lon": 4.615834,
+    "true_cluster": 4,
+    "disease": "Lassa Fever",
+    "classification": "Confirmed",
+    "outcome": "Dead",
+    "category": "Human",
+    "reported_at": "2024-01-26T00:00:00"
+  },
+  {
+    "lat": 5.635345,
+    "lon": 6.184822,
+    "true_cluster": 6,
+    "disease": "Cholera",
+    "classification": "Suspected",
+    "outcome": "Dead",
+    "category": "Animal",
+    "reported_at": "2024-01-28T00:00:00"
+  },
+  {
+    "lat": 12.60906,
+    "lon": 8.494646,
+    "true_cluster": 7,
+    "disease": "Yellow Fever",
+    "classification": "Confirmed",
+    "outcome": "Alive",
+    "category": "Animal",
+    "reported_at": "2024-01-30T00:00:00"
+  },
+  {
+    "lat": 6.203321,
+    "lon": 6.978088,
+    "true_cluster": 9,
+    "disease": "Meningitis",
+    "classification": "Probable",
+    "outcome": "Unknown",
+    "category": "Human",
+    "reported_at": "2024-01-29T00:00:00"
+  },
+  {
+    "lat": 7.043826,
+    "lon": 5.59934,
+    "true_cluster": 8,
+    "disease": "Yellow Fever",
+    "classification": "Suspected",
+    "outcome": "Dead",
+    "category": "Animal",
+    "reported_at": "2024-01-27T00:00:00"
+  },
+  {
+    "lat": 5.611236,
+    "lon": 6.339235,
+    "true_cluster": 6,
+    "disease": "Cholera",
+    "classification": "Suspected",
+    "outcome": "Alive",
+    "category": "Animal",
+    "reported_at": "2024-01-22T00:00:00"
+  },
+  {
+    "lat": 11.014931,
+    "lon": 4.921349,
+    "true_cluster": 5,
+    "disease": "Meningitis",
+    "classification": "Suspected",
+    "outcome": "Unknown",
+    "category": "Environmental",
+    "reported_at": "2024-01-27T00:00:00"
+  },
+  {
+    "lat": 10.893114,
+    "lon": 4.595206,
+    "true_cluster": 4,
+    "disease": "Lassa Fever",
+    "classification": "Suspected",
+    "outcome": "Unknown",
+    "category": "Environmental",
+    "reported_at": "2024-01-07T00:00:00"
+  },
+  {
+    "lat": 7.049522,
+    "lon": 5.570647,
+    "true_cluster": 8,
+    "disease": "Yellow Fever",
+    "classification": "Probable",
+    "outcome": "Dead",
+    "category": "Animal",
+    "reported_at": "2024-01-13T00:00:00"
+  },
+  {
+    "lat": 10.849818,
+    "lon": 4.619943,
+    "true_cluster": 4,
+    "disease": "Lassa Fever",
+    "classification": "Suspected",
+    "outcome": "Alive",
+    "category": "Human",
+    "reported_at": "2024-01-09T00:00:00"
+  },
+  {
+    "lat": 4.592859,
+    "lon": 6.027882,
+    "true_cluster": -1,
+    "disease": "Yellow Fever",
+    "classification": "Suspected",
+    "outcome": "Unknown",
+    "category": "Human",
+    "reported_at": "2024-01-08T00:00:00"
+  },
+  {
+    "lat": 6.179773,
+    "lon": 7.045997,
+    "true_cluster": 9,
+    "disease": "Meningitis",
+    "classification": "Suspected",
+    "outcome": "Alive",
+    "category": "Animal",
+    "reported_at": "2024-01-15T00:00:00"
+  },
+  {
+    "lat": 11.059485,
+    "lon": 4.861551,
+    "true_cluster": 5,
+    "disease": "Meningitis",
+    "classification": "Probable",
+    "outcome": "Dead",
+    "category": "Environmental",
+    "reported_at": "2024-01-27T00:00:00"
+  },
+  {
+    "lat": 6.199787,
+    "lon": 7.027022,
+    "true_cluster": 9,
+    "disease": "Meningitis",
+    "classification": "Suspected",
+    "outcome": "Dead",
+    "category": "Human",
+    "reported_at": "2024-01-27T00:00:00"
+  },
+  {
+    "lat": 8.674292,
+    "lon": 10.584481,
+    "true_cluster": 3,
+    "disease": "Lassa Fever",
+    "classification": "Probable",
+    "outcome": "Alive",
+    "category": "Environmental",
+    "reported_at": "2024-01-12T00:00:00"
+  },
+  {
+    "lat": 7.044167,
+    "lon": 5.628191,
+    "true_cluster": 8,
+    "disease": "Yellow Fever",
+    "classification": "Probable",
+    "outcome": "Unknown",
+    "category": "Environmental",
+    "reported_at": "2024-01-12T00:00:00"
+  },
+  {
+    "lat": 6.585874,
+    "lon": 9.70655,
+    "true_cluster": 1,
+    "disease": "Yellow Fever",
+    "classification": "Confirmed",
+    "outcome": "Unknown",
+    "category": "Environmental",
+    "reported_at": "2024-01-17T00:00:00"
+  },
+  {
+    "lat": 10.117353,
+    "lon": 3.896763,
+    "true_cluster": 0,
+    "disease": "Lassa Fever",
+    "classification": "Suspected",
+    "outcome": "Alive",
+    "category": "Environmental",
+    "reported_at": "2024-01-06T00:00:00"
+  },
+  {
+    "lat": 5.686317,
+    "lon": 6.334472,
+    "true_cluster": 6,
+    "disease": "Cholera",
+    "classification": "Suspected",
+    "outcome": "Alive",
+    "category": "Animal",
+    "reported_at": "2024-01-30T00:00:00"
+  },
+  {
+    "lat": 6.512274,
+    "lon": 9.704349,
+    "true_cluster": 1,
+    "disease": "Yellow Fever",
+    "classification": "Probable",
+    "outcome": "Dead",
+    "category": "Environmental",
+    "reported_at": "2024-01-28T00:00:00"
+  },
+  {
+    "lat": 6.150793,
+    "lon": 6.002458,
+    "true_cluster": 2,
+    "disease": "Yellow Fever",
+    "classification": "Confirmed",
+    "outcome": "Alive",
+    "category": "Human",
+    "reported_at": "2024-01-31T00:00:00"
+  },
+  {
+    "lat": 6.466007,
+    "lon": 9.649429,
+    "true_cluster": 1,
+    "disease": "Yellow Fever",
+    "classification": "Confirmed",
+    "outcome": "Dead",
+    "category": "Animal",
+    "reported_at": "2024-01-13T00:00:00"
+  },
+  {
+    "lat": 12.609359,
+    "lon": 8.537354,
+    "true_cluster": 7,
+    "disease": "Yellow Fever",
+    "classification": "Confirmed",
+    "outcome": "Unknown",
+    "category": "Human",
+    "reported_at": "2024-01-23T00:00:00"
+  },
+  {
+    "lat": 5.612685,
+    "lon": 6.289892,
+    "true_cluster": 6,
+    "disease": "Cholera",
+    "classification": "Confirmed",
+    "outcome": "Dead",
+    "category": "Human",
+    "reported_at": "2024-01-09T00:00:00"
+  },
+  {
+    "lat": 7.071561,
+    "lon": 5.532655,
+    "true_cluster": 8,
+    "disease": "Yellow Fever",
+    "classification": "Suspected",
+    "outcome": "Dead",
+    "category": "Human",
+    "reported_at": "2024-01-22T00:00:00"
+  },
+  {
+    "lat": 8.651617,
+    "lon": 10.575723,
+    "true_cluster": 3,
+    "disease": "Lassa Fever",
+    "classification": "Suspected",
+    "outcome": "Dead",
+    "category": "Environmental",
+    "reported_at": "2024-01-05T00:00:00"
+  },
+  {
+    "lat": 6.233468,
+    "lon": 6.989996,
+    "true_cluster": 9,
+    "disease": "Meningitis",
+    "classification": "Confirmed",
+    "outcome": "Dead",
+    "category": "Human",
+    "reported_at": "2024-01-01T00:00:00"
+  },
+  {
+    "lat": 6.205495,
+    "lon": 7.082474,
+    "true_cluster": 9,
+    "disease": "Meningitis",
+    "classification": "Probable",
+    "outcome": "Dead",
+    "category": "Human",
+    "reported_at": "2024-01-12T00:00:00"
+  },
+  {
+    "lat": 10.957923,
+    "lon": 4.865082,
+    "true_cluster": 5,
+    "disease": "Meningitis",
+    "classification": "Confirmed",
+    "outcome": "Alive",
+    "category": "Animal",
+    "reported_at": "2024-01-03T00:00:00"
+  },
+  {
+    "lat": 5.656058,
+    "lon": 6.300449,
+    "true_cluster": 6,
+    "disease": "Cholera",
+    "classification": "Confirmed",
+    "outcome": "Unknown",
+    "category": "Environmental",
+    "reported_at": "2024-01-11T00:00:00"
+  },
+  {
+    "lat": 10.82421,
+    "lon": 4.577084,
+    "true_cluster": 4,
+    "disease": "Lassa Fever",
+    "classification": "Suspected",
+    "outcome": "Alive",
+    "category": "Animal",
+    "reported_at": "2024-01-08T00:00:00"
+  },
+  {
+    "lat": 6.542967,
+    "lon": 9.665516,
+    "true_cluster": 1,
+    "disease": "Yellow Fever",
+    "classification": "Probable",
+    "outcome": "Alive",
+    "category": "Animal",
+    "reported_at": "2024-01-07T00:00:00"
+  },
+  {
+    "lat": 6.464245,
+    "lon": 9.603215,
+    "true_cluster": 1,
+    "disease": "Yellow Fever",
+    "classification": "Confirmed",
+    "outcome": "Dead",
+    "category": "Human",
+    "reported_at": "2024-01-04T00:00:00"
+  },
+  {
+    "lat": 12.763666,
+    "lon": 8.557009,
+    "true_cluster": 7,
+    "disease": "Yellow Fever",
+    "classification": "Confirmed",
+    "outcome": "Dead",
+    "category": "Animal",
+    "reported_at": "2024-01-17T00:00:00"
+  },
+  {
+    "lat": 11.977558,
+    "lon": 10.257124,
+    "true_cluster": -1,
+    "disease": "Cholera",
+    "classification": "Confirmed",
+    "outcome": "Unknown",
+    "category": "Animal",
+    "reported_at": "2024-01-13T00:00:00"
+  },
+  {
+    "lat": 10.798717,
+    "lon": 4.619369,
+    "true_cluster": 4,
+    "disease": "Lassa Fever",
+    "classification": "Suspected",
+    "outcome": "Dead",
+    "category": "Animal",
+    "reported_at": "2024-01-24T00:00:00"
+  },
+  {
+    "lat": 8.624594,
+    "lon": 10.625493,
+    "true_cluster": 3,
+    "disease": "Lassa Fever",
+    "classification": "Probable",
+    "outcome": "Dead",
+    "category": "Human",
+    "reported_at": "2024-01-15T00:00:00"
+  },
+  {
+    "lat": 6.139327,
+    "lon": 6.023591,
+    "true_cluster": 2,
+    "disease": "Yellow Fever",
+    "classification": "Probable",
+    "outcome": "Alive",
+    "category": "Environmental",
+    "reported_at": "2024-01-03T00:00:00"
+  },
+  {
+    "lat": 10.126328,
+    "lon": 3.944881,
+    "true_cluster": 0,
+    "disease": "Lassa Fever",
+    "classification": "Confirmed",
+    "outcome": "Unknown",
+    "category": "Human",
+    "reported_at": "2024-01-23T00:00:00"
+  },
+  {
+    "lat": 10.165364,
+    "lon": 3.983745,
+    "true_cluster": 0,
+    "disease": "Lassa Fever",
+    "classification": "Confirmed",
+    "outcome": "Dead",
+    "category": "Animal",
+    "reported_at": "2024-01-14T00:00:00"
+  },
+  {
+    "lat": 10.848277,
+    "lon": 4.599253,
+    "true_cluster": 4,
+    "disease": "Lassa Fever",
+    "classification": "Probable",
+    "outcome": "Alive",
+    "category": "Animal",
+    "reported_at": "2024-01-30T00:00:00"
+  },
+  {
+    "lat": 6.517067,
+    "lon": 9.635011,
+    "true_cluster": 1,
+    "disease": "Yellow Fever",
+    "classification": "Suspected",
+    "outcome": "Alive",
+    "category": "Human",
+    "reported_at": "2024-01-29T00:00:00"
+  },
+  {
+    "lat": 11.017513,
+    "lon": 4.817969,
+    "true_cluster": 5,
+    "disease": "Meningitis",
+    "classification": "Confirmed",
+    "outcome": "Dead",
+    "category": "Human",
+    "reported_at": "2024-01-14T00:00:00"
+  },
+  {
+    "lat": 10.074076,
+    "lon": 4.047979,
+    "true_cluster": 0,
+    "disease": "Lassa Fever",
+    "classification": "Suspected",
+    "outcome": "Unknown",
+    "category": "Animal",
+    "reported_at": "2024-01-17T00:00:00"
+  },
+  {
+    "lat": 10.876644,
+    "lon": 5.352381,
+    "true_cluster": -1,
+    "disease": "Lassa Fever",
+    "classification": "Probable",
+    "outcome": "Dead",
+    "category": "Environmental",
+    "reported_at": "2024-01-19T00:00:00"
+  },
+  {
+    "lat": 11.741353,
+    "lon": 11.492688,
+    "true_cluster": -1,
+    "disease": "Yellow Fever",
+    "classification": "Probable",
+    "outcome": "Unknown",
+    "category": "Environmental",
+    "reported_at": "2024-01-23T00:00:00"
+  },
+  {
+    "lat": 5.629514,
+    "lon": 6.22964,
+    "true_cluster": 6,
+    "disease": "Cholera",
+    "classification": "Suspected",
+    "outcome": "Dead",
+    "category": "Environmental",
+    "reported_at": "2024-01-27T00:00:00"
+  },
+  {
+    "lat": 10.918956,
+    "lon": 4.581554,
+    "true_cluster": 4,
+    "disease": "Lassa Fever",
+    "classification": "Confirmed",
+    "outcome": "Unknown",
+    "category": "Animal",
+    "reported_at": "2024-01-19T00:00:00"
+  },
+  {
+    "lat": 6.080053,
+    "lon": 5.984905,
+    "true_cluster": 2,
+    "disease": "Yellow Fever",
+    "classification": "Suspected",
+    "outcome": "Unknown",
+    "category": "Animal",
+    "reported_at": "2024-01-28T00:00:00"
+  },
+  {
+    "lat": 5.633558,
+    "lon": 6.257985,
+    "true_cluster": 6,
+    "disease": "Cholera",
+    "classification": "Confirmed",
+    "outcome": "Dead",
+    "category": "Animal",
+    "reported_at": "2024-01-27T00:00:00"
+  },
+  {
+    "lat": 10.090316,
+    "lon": 4.033159,
+    "true_cluster": 0,
+    "disease": "Lassa Fever",
+    "classification": "Suspected",
+    "outcome": "Unknown",
+    "category": "Environmental",
+    "reported_at": "2024-01-18T00:00:00"
+  },
+  {
+    "lat": 6.623534,
+    "lon": 13.051639,
+    "true_cluster": -1,
+    "disease": "Typhoid",
+    "classification": "Confirmed",
+    "outcome": "Dead",
+    "category": "Environmental",
+    "reported_at": "2024-01-13T00:00:00"
+  },
+  {
+    "lat": 7.582227,
+    "lon": 3.459968,
+    "true_cluster": -1,
+    "disease": "Typhoid",
+    "classification": "Probable",
+    "outcome": "Alive",
+    "category": "Animal",
+    "reported_at": "2024-01-27T00:00:00"
+  },
+  {
+    "lat": 6.227965,
+    "lon": 6.936782,
+    "true_cluster": 9,
+    "disease": "Meningitis",
+    "classification": "Probable",
+    "outcome": "Alive",
+    "category": "Environmental",
+    "reported_at": "2024-01-03T00:00:00"
+  },
+  {
+    "lat": 11.052234,
+    "lon": 4.905889,
+    "true_cluster": 5,
+    "disease": "Meningitis",
+    "classification": "Confirmed",
+    "outcome": "Alive",
+    "category": "Human",
+    "reported_at": "2024-01-07T00:00:00"
+  },
+  {
+    "lat": 7.032596,
+    "lon": 5.576181,
+    "true_cluster": 8,
+    "disease": "Yellow Fever",
+    "classification": "Suspected",
+    "outcome": "Alive",
+    "category": "Human",
+    "reported_at": "2024-01-03T00:00:00"
+  },
+  {
+    "lat": 6.118251,
+    "lon": 5.989571,
+    "true_cluster": 2,
+    "disease": "Yellow Fever",
+    "classification": "Suspected",
+    "outcome": "Dead",
+    "category": "Animal",
+    "reported_at": "2024-01-21T00:00:00"
+  },
+  {
+    "lat": 11.021885,
+    "lon": 4.829639,
+    "true_cluster": 5,
+    "disease": "Meningitis",
+    "classification": "Suspected",
+    "outcome": "Dead",
+    "category": "Environmental",
+    "reported_at": "2024-01-16T00:00:00"
+  },
+  {
+    "lat": 6.282788,
+    "lon": 7.049178,
+    "true_cluster": 9,
+    "disease": "Meningitis",
+    "classification": "Probable",
+    "outcome": "Alive",
+    "category": "Animal",
+    "reported_at": "2024-01-11T00:00:00"
+  },
+  {
+    "lat": 6.53637,
+    "lon": 9.703941,
+    "true_cluster": 1,
+    "disease": "Yellow Fever",
+    "classification": "Confirmed",
+    "outcome": "Dead",
+    "category": "Animal",
+    "reported_at": "2024-01-11T00:00:00"
+  },
+  {
+    "lat": 8.636734,
+    "lon": 10.460077,
+    "true_cluster": 3,
+    "disease": "Lassa Fever",
+    "classification": "Probable",
+    "outcome": "Unknown",
+    "category": "Environmental",
+    "reported_at": "2024-01-15T00:00:00"
+  },
+  {
+    "lat": 8.627673,
+    "lon": 10.56222,
+    "true_cluster": 3,
+    "disease": "Lassa Fever",
+    "classification": "Probable",
+    "outcome": "Dead",
+    "category": "Human",
+    "reported_at": "2024-01-13T00:00:00"
+  },
+  {
+    "lat": 10.163609,
+    "lon": 4.008022,
+    "true_cluster": 0,
+    "disease": "Lassa Fever",
+    "classification": "Suspected",
+    "outcome": "Unknown",
+    "category": "Environmental",
+    "reported_at": "2024-01-29T00:00:00"
+  },
+  {
+    "lat": 6.221586,
+    "lon": 6.987386,
+    "true_cluster": 9,
+    "disease": "Meningitis",
+    "classification": "Probable",
+    "outcome": "Dead",
+    "category": "Animal",
+    "reported_at": "2024-01-27T00:00:00"
+  },
+  {
+    "lat": 5.611422,
+    "lon": 6.326471,
+    "true_cluster": 6,
+    "disease": "Cholera",
+    "classification": "Suspected",
+    "outcome": "Alive",
+    "category": "Animal",
+    "reported_at": "2024-01-21T00:00:00"
+  },
+  {
+    "lat": 12.638691,
+    "lon": 8.484289,
+    "true_cluster": 7,
+    "disease": "Yellow Fever",
+    "classification": "Suspected",
+    "outcome": "Alive",
+    "category": "Animal",
+    "reported_at": "2024-01-11T00:00:00"
+  },
+  {
+    "lat": 11.031121,
+    "lon": 4.876837,
+    "true_cluster": 5,
+    "disease": "Meningitis",
+    "classification": "Confirmed",
+    "outcome": "Unknown",
+    "category": "Environmental",
+    "reported_at": "2024-01-28T00:00:00"
+  },
+  {
+    "lat": 6.120368,
+    "lon": 5.975846,
+    "true_cluster": 2,
+    "disease": "Yellow Fever",
+    "classification": "Confirmed",
+    "outcome": "Alive",
+    "category": "Animal",
+    "reported_at": "2024-01-18T00:00:00"
+  },
+  {
+    "lat": 10.136679,
+    "lon": 3.989452,
+    "true_cluster": 0,
+    "disease": "Lassa Fever",
+    "classification": "Confirmed",
+    "outcome": "Alive",
+    "category": "Human",
+    "reported_at": "2024-01-15T00:00:00"
+  },
+  {
+    "lat": 10.889901,
+    "lon": 4.62927,
+    "true_cluster": 4,
+    "disease": "Lassa Fever",
+    "classification": "Suspected",
+    "outcome": "Alive",
+    "category": "Animal",
+    "reported_at": "2024-01-16T00:00:00"
+  },
+  {
+    "lat": 10.082314,
+    "lon": 3.968435,
+    "true_cluster": 0,
+    "disease": "Lassa Fever",
+    "classification": "Probable",
+    "outcome": "Unknown",
+    "category": "Animal",
+    "reported_at": "2024-01-26T00:00:00"
+  },
+  {
+    "lat": 6.561906,
+    "lon": 9.595279,
+    "true_cluster": 1,
+    "disease": "Yellow Fever",
+    "classification": "Suspected",
+    "outcome": "Dead",
+    "category": "Human",
+    "reported_at": "2024-01-23T00:00:00"
+  },
+  {
+    "lat": 12.761842,
+    "lon": 8.498117,
+    "true_cluster": 7,
+    "disease": "Yellow Fever",
+    "classification": "Suspected",
+    "outcome": "Dead",
+    "category": "Animal",
+    "reported_at": "2024-01-21T00:00:00"
+  },
+  {
+    "lat": 6.286023,
+    "lon": 6.902678,
+    "true_cluster": 9,
+    "disease": "Meningitis",
+    "classification": "Confirmed",
+    "outcome": "Alive",
+    "category": "Human",
+    "reported_at": "2024-01-14T00:00:00"
+  },
+  {
+    "lat": 6.126543,
+    "lon": 6.097453,
+    "true_cluster": 2,
+    "disease": "Yellow Fever",
+    "classification": "Probable",
+    "outcome": "Dead",
+    "category": "Animal",
+    "reported_at": "2024-01-18T00:00:00"
+  },
+  {
+    "lat": 11.056321,
+    "lon": 4.905683,
+    "true_cluster": 5,
+    "disease": "Meningitis",
+    "classification": "Suspected",
+    "outcome": "Dead",
+    "category": "Animal",
+    "reported_at": "2024-01-11T00:00:00"
+  },
+  {
+    "lat": 7.059367,
+    "lon": 5.640329,
+    "true_cluster": 8,
+    "disease": "Yellow Fever",
+    "classification": "Confirmed",
+    "outcome": "Alive",
+    "category": "Environmental",
+    "reported_at": "2024-01-15T00:00:00"
+  },
+  {
+    "lat": 10.90701,
+    "lon": 4.647819,
+    "true_cluster": 4,
+    "disease": "Lassa Fever",
+    "classification": "Probable",
+    "outcome": "Unknown",
+    "category": "Animal",
+    "reported_at": "2024-01-28T00:00:00"
+  },
+  {
+    "lat": 6.100105,
+    "lon": 5.955118,
+    "true_cluster": 2,
+    "disease": "Yellow Fever",
+    "classification": "Probable",
+    "outcome": "Dead",
+    "category": "Human",
+    "reported_at": "2024-01-27T00:00:00"
+  },
+  {
+    "lat": 8.89642,
+    "lon": 4.383558,
+    "true_cluster": -1,
+    "disease": "Lassa Fever",
+    "classification": "Probable",
+    "outcome": "Unknown",
+    "category": "Human",
+    "reported_at": "2024-01-28T00:00:00"
+  },
+  {
+    "lat": 11.075321,
+    "lon": 4.831255,
+    "true_cluster": 5,
+    "disease": "Meningitis",
+    "classification": "Confirmed",
+    "outcome": "Dead",
+    "category": "Environmental",
+    "reported_at": "2024-01-26T00:00:00"
+  },
+  {
+    "lat": 6.115185,
+    "lon": 6.082686,
+    "true_cluster": 2,
+    "disease": "Yellow Fever",
+    "classification": "Confirmed",
+    "outcome": "Dead",
+    "category": "Environmental",
+    "reported_at": "2024-01-28T00:00:00"
+  },
+  {
+    "lat": 10.113084,
+    "lon": 9.744057,
+    "true_cluster": -1,
+    "disease": "Lassa Fever",
+    "classification": "Probable",
+    "outcome": "Dead",
+    "category": "Environmental",
+    "reported_at": "2024-01-06T00:00:00"
+  },
+  {
+    "lat": 5.609585,
+    "lon": 6.249007,
+    "true_cluster": 6,
+    "disease": "Cholera",
+    "classification": "Suspected",
+    "outcome": "Alive",
+    "category": "Human",
+    "reported_at": "2024-01-31T00:00:00"
+  },
+  {
+    "lat": 10.116729,
+    "lon": 3.926371,
+    "true_cluster": 0,
+    "disease": "Lassa Fever",
+    "classification": "Suspected",
+    "outcome": "Unknown",
+    "category": "Animal",
+    "reported_at": "2024-01-11T00:00:00"
+  },
+  {
+    "lat": 12.654155,
+    "lon": 8.602386,
+    "true_cluster": 7,
+    "disease": "Yellow Fever",
+    "classification": "Suspected",
+    "outcome": "Alive",
+    "category": "Animal",
+    "reported_at": "2024-01-31T00:00:00"
+  },
+  {
+    "lat": 5.621556,
+    "lon": 6.326461,
+    "true_cluster": 6,
+    "disease": "Cholera",
+    "classification": "Suspected",
+    "outcome": "Alive",
+    "category": "Environmental",
+    "reported_at": "2024-01-06T00:00:00"
+  },
+  {
+    "lat": 12.668999,
+    "lon": 8.525617,
+    "true_cluster": 7,
+    "disease": "Yellow Fever",
+    "classification": "Probable",
+    "outcome": "Alive",
+    "category": "Human",
+    "reported_at": "2024-01-10T00:00:00"
+  },
+  {
+    "lat": 7.008859,
+    "lon": 5.560292,
+    "true_cluster": 8,
+    "disease": "Yellow Fever",
+    "classification": "Confirmed",
+    "outcome": "Unknown",
+    "category": "Human",
+    "reported_at": "2024-01-06T00:00:00"
+  },
+  {
+    "lat": 8.677211,
+    "lon": 10.602877,
+    "true_cluster": 3,
+    "disease": "Lassa Fever",
+    "classification": "Probable",
+    "outcome": "Dead",
+    "category": "Animal",
+    "reported_at": "2024-01-11T00:00:00"
+  },
+  {
+    "lat": 6.081148,
+    "lon": 5.992223,
+    "true_cluster": 2,
+    "disease": "Yellow Fever",
+    "classification": "Confirmed",
+    "outcome": "Alive",
+    "category": "Environmental",
+    "reported_at": "2024-01-13T00:00:00"
+  },
+  {
+    "lat": 10.876736,
+    "lon": 4.607316,
+    "true_cluster": 4,
+    "disease": "Lassa Fever",
+    "classification": "Probable",
+    "outcome": "Unknown",
+    "category": "Animal",
+    "reported_at": "2024-01-12T00:00:00"
+  },
+  {
+    "lat": 10.1211,
+    "lon": 3.992826,
+    "true_cluster": 0,
+    "disease": "Lassa Fever",
+    "classification": "Suspected",
+    "outcome": "Dead",
+    "category": "Human",
+    "reported_at": "2024-01-17T00:00:00"
+  },
+  {
+    "lat": 7.05156,
+    "lon": 5.451753,
+    "true_cluster": 8,
+    "disease": "Yellow Fever",
+    "classification": "Probable",
+    "outcome": "Dead",
+    "category": "Human",
+    "reported_at": "2024-01-18T00:00:00"
+  },
+  {
+    "lat": 5.644131,
+    "lon": 6.322476,
+    "true_cluster": 6,
+    "disease": "Cholera",
+    "classification": "Suspected",
+    "outcome": "Alive",
+    "category": "Human",
+    "reported_at": "2024-01-26T00:00:00"
+  },
+  {
+    "lat": 7.03963,
+    "lon": 5.625594,
+    "true_cluster": 8,
+    "disease": "Yellow Fever",
+    "classification": "Confirmed",
+    "outcome": "Alive",
+    "category": "Human",
+    "reported_at": "2024-01-20T00:00:00"
+  },
+  {
+    "lat": 6.236936,
+    "lon": 7.035758,
+    "true_cluster": 9,
+    "disease": "Meningitis",
+    "classification": "Probable",
+    "outcome": "Alive",
+    "category": "Human",
+    "reported_at": "2024-01-19T00:00:00"
+  },
+  {
+    "lat": 6.211337,
+    "lon": 7.06237,
+    "true_cluster": 9,
+    "disease": "Meningitis",
+    "classification": "Suspected",
+    "outcome": "Alive",
+    "category": "Human",
+    "reported_at": "2024-01-14T00:00:00"
+  },
+  {
+    "lat": 10.197543,
+    "lon": 3.925405,
+    "true_cluster": 0,
+    "disease": "Lassa Fever",
+    "classification": "Confirmed",
+    "outcome": "Alive",
+    "category": "Environmental",
+    "reported_at": "2024-01-11T00:00:00"
+  },
+  {
+    "lat": 11.02912,
+    "lon": 4.879298,
+    "true_cluster": 5,
+    "disease": "Meningitis",
+    "classification": "Probable",
+    "outcome": "Alive",
+    "category": "Animal",
+    "reported_at": "2024-01-06T00:00:00"
+  },
+  {
+    "lat": 12.614618,
+    "lon": 8.532118,
+    "true_cluster": 7,
+    "disease": "Yellow Fever",
+    "classification": "Probable",
+    "outcome": "Dead",
+    "category": "Environmental",
+    "reported_at": "2024-01-30T00:00:00"
+  },
+  {
+    "lat": 12.648756,
+    "lon": 8.574859,
+    "true_cluster": 7,
+    "disease": "Yellow Fever",
+    "classification": "Confirmed",
+    "outcome": "Unknown",
+    "category": "Environmental",
+    "reported_at": "2024-01-08T00:00:00"
+  },
+  {
+    "lat": 11.061708,
+    "lon": 4.845713,
+    "true_cluster": 5,
+    "disease": "Meningitis",
+    "classification": "Probable",
+    "outcome": "Dead",
+    "category": "Environmental",
+    "reported_at": "2024-01-30T00:00:00"
+  },
+  {
+    "lat": 12.635136,
+    "lon": 8.572895,
+    "true_cluster": 7,
+    "disease": "Yellow Fever",
+    "classification": "Suspected",
+    "outcome": "Dead",
+    "category": "Environmental",
+    "reported_at": "2024-01-15T00:00:00"
+  },
+  {
+    "lat": 6.088877,
+    "lon": 5.945538,
+    "true_cluster": 2,
+    "disease": "Yellow Fever",
+    "classification": "Suspected",
+    "outcome": "Dead",
+    "category": "Human",
+    "reported_at": "2024-01-02T00:00:00"
+  },
+  {
+    "lat": 8.609159,
+    "lon": 10.579473,
+    "true_cluster": 3,
+    "disease": "Lassa Fever",
+    "classification": "Suspected",
+    "outcome": "Alive",
+    "category": "Environmental",
+    "reported_at": "2024-01-12T00:00:00"
+  },
+  {
+    "lat": 10.813882,
+    "lon": 4.630642,
+    "true_cluster": 4,
+    "disease": "Lassa Fever",
+    "classification": "Probable",
+    "outcome": "Alive",
+    "category": "Environmental",
+    "reported_at": "2024-01-12T00:00:00"
+  },
+  {
+    "lat": 4.105478,
+    "lon": 5.80486,
+    "true_cluster": -1,
+    "disease": "Typhoid",
+    "classification": "Confirmed",
+    "outcome": "Unknown",
+    "category": "Environmental",
+    "reported_at": "2024-01-19T00:00:00"
+  },
+  {
+    "lat": 8.58853,
+    "lon": 10.574263,
+    "true_cluster": 3,
+    "disease": "Lassa Fever",
+    "classification": "Probable",
+    "outcome": "Alive",
+    "category": "Human",
+    "reported_at": "2024-01-09T00:00:00"
+  },
+  {
+    "lat": 6.116604,
+    "lon": 6.059717,
+    "true_cluster": 2,
+    "disease": "Yellow Fever",
+    "classification": "Confirmed",
+    "outcome": "Dead",
+    "category": "Animal",
+    "reported_at": "2024-01-06T00:00:00"
+  },
+  {
+    "lat": 10.785086,
+    "lon": 4.62806,
+    "true_cluster": 4,
+    "disease": "Lassa Fever",
+    "classification": "Suspected",
+    "outcome": "Dead",
+    "category": "Human",
+    "reported_at": "2024-01-22T00:00:00"
+  },
+  {
+    "lat": 9.632203,
+    "lon": 10.440374,
+    "true_cluster": -1,
+    "disease": "Yellow Fever",
+    "classification": "Probable",
+    "outcome": "Dead",
+    "category": "Animal",
+    "reported_at": "2024-01-04T00:00:00"
+  },
+  {
+    "lat": 10.064805,
+    "lon": 3.920804,
+    "true_cluster": 0,
+    "disease": "Lassa Fever",
+    "classification": "Probable",
+    "outcome": "Alive",
+    "category": "Human",
+    "reported_at": "2024-01-17T00:00:00"
+  },
+  {
+    "lat": 11.945986,
+    "lon": 11.926611,
+    "true_cluster": -1,
+    "disease": "Meningitis",
+    "classification": "Confirmed",
+    "outcome": "Unknown",
+    "category": "Animal",
+    "reported_at": "2024-01-23T00:00:00"
+  },
+  {
+    "lat": 6.460776,
+    "lon": 9.687999,
+    "true_cluster": 1,
+    "disease": "Yellow Fever",
+    "classification": "Probable",
+    "outcome": "Dead",
+    "category": "Environmental",
+    "reported_at": "2024-01-17T00:00:00"
+  },
+  {
+    "lat": 8.676038,
+    "lon": 10.543751,
+    "true_cluster": 3,
+    "disease": "Lassa Fever",
+    "classification": "Probable",
+    "outcome": "Alive",
+    "category": "Environmental",
+    "reported_at": "2024-01-26T00:00:00"
+  },
+  {
+    "lat": 8.56434,
+    "lon": 10.657572,
+    "true_cluster": 3,
+    "disease": "Lassa Fever",
+    "classification": "Probable",
+    "outcome": "Alive",
+    "category": "Human",
+    "reported_at": "2024-01-17T00:00:00"
+  },
+  {
+    "lat": 5.672535,
+    "lon": 9.484774,
+    "true_cluster": -1,
+    "disease": "Cholera",
+    "classification": "Probable",
+    "outcome": "Alive",
+    "category": "Animal",
+    "reported_at": "2024-01-08T00:00:00"
+  },
+  {
+    "lat": 10.153783,
+    "lon": 4.009048,
+    "true_cluster": 0,
+    "disease": "Lassa Fever",
+    "classification": "Suspected",
+    "outcome": "Unknown",
+    "category": "Environmental",
+    "reported_at": "2024-01-09T00:00:00"
+  },
+  {
+    "lat": 12.690524,
+    "lon": 8.559273,
+    "true_cluster": 7,
+    "disease": "Yellow Fever",
+    "classification": "Probable",
+    "outcome": "Dead",
+    "category": "Animal",
+    "reported_at": "2024-01-21T00:00:00"
+  },
+  {
+    "lat": 6.165603,
+    "lon": 7.044332,
+    "true_cluster": 9,
+    "disease": "Meningitis",
+    "classification": "Suspected",
+    "outcome": "Unknown",
+    "category": "Environmental",
+    "reported_at": "2024-01-29T00:00:00"
+  },
+  {
+    "lat": 10.185468,
+    "lon": 3.888181,
+    "true_cluster": 0,
+    "disease": "Lassa Fever",
+    "classification": "Probable",
+    "outcome": "Unknown",
+    "category": "Animal",
+    "reported_at": "2024-01-04T00:00:00"
+  },
+  {
+    "lat": 10.073736,
+    "lon": 3.923476,
+    "true_cluster": 0,
+    "disease": "Lassa Fever",
+    "classification": "Suspected",
+    "outcome": "Alive",
+    "category": "Human",
+    "reported_at": "2024-01-07T00:00:00"
+  },
+  {
+    "lat": 6.209255,
+    "lon": 7.08268,
+    "true_cluster": 9,
+    "disease": "Meningitis",
+    "classification": "Probable",
+    "outcome": "Dead",
+    "category": "Human",
+    "reported_at": "2024-01-03T00:00:00"
+  },
+  {
+    "lat": 6.046568,
+    "lon": 5.980044,
+    "true_cluster": 2,
+    "disease": "Yellow Fever",
+    "classification": "Probable",
+    "outcome": "Unknown",
+    "category": "Environmental",
+    "reported_at": "2024-01-30T00:00:00"
+  },
+  {
+    "lat": 7.12566,
+    "lon": 5.532641,
+    "true_cluster": 8,
+    "disease": "Yellow Fever",
+    "classification": "Confirmed",
+    "outcome": "Unknown",
+    "category": "Animal",
+    "reported_at": "2024-01-10T00:00:00"
+  },
+  {
+    "lat": 11.093865,
+    "lon": 4.759202,
+    "true_cluster": 5,
+    "disease": "Meningitis",
+    "classification": "Suspected",
+    "outcome": "Dead",
+    "category": "Human",
+    "reported_at": "2024-01-25T00:00:00"
+  },
+  {
+    "lat": 6.481994,
+    "lon": 9.718338,
+    "true_cluster": 1,
+    "disease": "Yellow Fever",
+    "classification": "Confirmed",
+    "outcome": "Unknown",
+    "category": "Animal",
+    "reported_at": "2024-01-08T00:00:00"
+  },
+  {
+    "lat": 6.032,
+    "lon": 6.023965,
+    "true_cluster": 2,
+    "disease": "Yellow Fever",
+    "classification": "Confirmed",
+    "outcome": "Dead",
+    "category": "Animal",
+    "reported_at": "2024-01-26T00:00:00"
+  },
+  {
+    "lat": 6.466982,
+    "lon": 9.68593,
+    "true_cluster": 1,
+    "disease": "Yellow Fever",
+    "classification": "Probable",
+    "outcome": "Unknown",
+    "category": "Human",
+    "reported_at": "2024-01-24T00:00:00"
+  },
+  {
+    "lat": 8.599183,
+    "lon": 10.603921,
+    "true_cluster": 3,
+    "disease": "Lassa Fever",
+    "classification": "Confirmed",
+    "outcome": "Alive",
+    "category": "Animal",
+    "reported_at": "2024-01-30T00:00:00"
+  },
+  {
+    "lat": 12.681191,
+    "lon": 8.465595,
+    "true_cluster": 7,
+    "disease": "Yellow Fever",
+    "classification": "Probable",
+    "outcome": "Dead",
+    "category": "Environmental",
+    "reported_at": "2024-01-04T00:00:00"
+  },
+  {
+    "lat": 11.003782,
+    "lon": 4.821231,
+    "true_cluster": 5,
+    "disease": "Meningitis",
+    "classification": "Probable",
+    "outcome": "Dead",
+    "category": "Animal",
+    "reported_at": "2024-01-25T00:00:00"
+  },
+  {
+    "lat": 6.257275,
+    "lon": 6.918834,
+    "true_cluster": 9,
+    "disease": "Meningitis",
+    "classification": "Probable",
+    "outcome": "Alive",
+    "category": "Animal",
+    "reported_at": "2024-01-06T00:00:00"
+  },
+  {
+    "lat": 7.044984,
+    "lon": 5.563803,
+    "true_cluster": 8,
+    "disease": "Yellow Fever",
+    "classification": "Probable",
+    "outcome": "Unknown",
+    "category": "Environmental",
+    "reported_at": "2024-01-12T00:00:00"
+  },
+  {
+    "lat": 6.220242,
+    "lon": 7.004874,
+    "true_cluster": 9,
+    "disease": "Meningitis",
+    "classification": "Confirmed",
+    "outcome": "Alive",
+    "category": "Environmental",
+    "reported_at": "2024-01-28T00:00:00"
+  },
+  {
+    "lat": 7.088774,
+    "lon": 5.711919,
+    "true_cluster": 8,
+    "disease": "Yellow Fever",
+    "classification": "Suspected",
+    "outcome": "Alive",
+    "category": "Animal",
+    "reported_at": "2024-01-12T00:00:00"
+  },
+  {
+    "lat": 10.810081,
+    "lon": 4.629784,
+    "true_cluster": 4,
+    "disease": "Lassa Fever",
+    "classification": "Suspected",
+    "outcome": "Dead",
+    "category": "Animal",
+    "reported_at": "2024-01-11T00:00:00"
+  },
+  {
+    "lat": 6.673431,
+    "lon": 12.996202,
+    "true_cluster": -1,
+    "disease": "Yellow Fever",
+    "classification": "Suspected",
+    "outcome": "Alive",
+    "category": "Animal",
+    "reported_at": "2024-01-30T00:00:00"
+  },
+  {
+    "lat": 10.15469,
+    "lon": 3.904896,
+    "true_cluster": 0,
+    "disease": "Lassa Fever",
+    "classification": "Suspected",
+    "outcome": "Unknown",
+    "category": "Environmental",
+    "reported_at": "2024-01-21T00:00:00"
+  },
+  {
+    "lat": 7.045065,
+    "lon": 5.590314,
+    "true_cluster": 8,
+    "disease": "Yellow Fever",
+    "classification": "Probable",
+    "outcome": "Dead",
+    "category": "Human",
+    "reported_at": "2024-01-10T00:00:00"
+  },
+  {
+    "lat": 11.042151,
+    "lon": 4.852853,
+    "true_cluster": 5,
+    "disease": "Meningitis",
+    "classification": "Probable",
+    "outcome": "Dead",
+    "category": "Human",
+    "reported_at": "2024-01-14T00:00:00"
+  },
+  {
+    "lat": 7.073844,
+    "lon": 5.558171,
+    "true_cluster": 8,
+    "disease": "Yellow Fever",
+    "classification": "Suspected",
+    "outcome": "Unknown",
+    "category": "Animal",
+    "reported_at": "2024-01-30T00:00:00"
+  },
+  {
+    "lat": 10.183963,
+    "lon": 3.948018,
+    "true_cluster": 0,
+    "disease": "Lassa Fever",
+    "classification": "Confirmed",
+    "outcome": "Dead",
+    "category": "Animal",
+    "reported_at": "2024-01-29T00:00:00"
+  },
+  {
+    "lat": 11.097531,
+    "lon": 4.86735,
+    "true_cluster": 5,
+    "disease": "Meningitis",
+    "classification": "Probable",
+    "outcome": "Dead",
+    "category": "Human",
+    "reported_at": "2024-01-02T00:00:00"
+  },
+  {
+    "lat": 6.091141,
+    "lon": 5.966394,
+    "true_cluster": 2,
+    "disease": "Yellow Fever",
+    "classification": "Suspected",
+    "outcome": "Unknown",
+    "category": "Animal",
+    "reported_at": "2024-01-04T00:00:00"
+  },
+  {
+    "lat": 10.876787,
+    "lon": 4.55852,
+    "true_cluster": 4,
+    "disease": "Lassa Fever",
+    "classification": "Suspected",
+    "outcome": "Dead",
+    "category": "Human",
+    "reported_at": "2024-01-26T00:00:00"
+  },
+  {
+    "lat": 8.713402,
+    "lon": 10.611918,
+    "true_cluster": 3,
+    "disease": "Lassa Fever",
+    "classification": "Probable",
+    "outcome": "Dead",
+    "category": "Environmental",
+    "reported_at": "2024-01-09T00:00:00"
+  },
+  {
+    "lat": 10.107825,
+    "lon": 4.017913,
+    "true_cluster": 0,
+    "disease": "Lassa Fever",
+    "classification": "Suspected",
+    "outcome": "Unknown",
+    "category": "Environmental",
+    "reported_at": "2024-01-11T00:00:00"
+  },
+  {
+    "lat": 6.429311,
+    "lon": 9.606012,
+    "true_cluster": 1,
+    "disease": "Yellow Fever",
+    "classification": "Confirmed",
+    "outcome": "Dead",
+    "category": "Human",
+    "reported_at": "2024-01-22T00:00:00"
+  },
+  {
+    "lat": 6.111414,
+    "lon": 6.004878,
+    "true_cluster": 2,
+    "disease": "Yellow Fever",
+    "classification": "Probable",
+    "outcome": "Alive",
+    "category": "Animal",
+    "reported_at": "2024-01-06T00:00:00"
+  },
+  {
+    "lat": 6.451808,
+    "lon": 9.636346,
+    "true_cluster": 1,
+    "disease": "Yellow Fever",
+    "classification": "Suspected",
+    "outcome": "Alive",
+    "category": "Environmental",
+    "reported_at": "2024-01-29T00:00:00"
+  },
+  {
+    "lat": 8.664799,
+    "lon": 10.549859,
+    "true_cluster": 3,
+    "disease": "Lassa Fever",
+    "classification": "Probable",
+    "outcome": "Dead",
+    "category": "Environmental",
+    "reported_at": "2024-01-18T00:00:00"
+  },
+  {
+    "lat": 6.462156,
+    "lon": 9.630978,
+    "true_cluster": 1,
+    "disease": "Yellow Fever",
+    "classification": "Probable",
+    "outcome": "Dead",
+    "category": "Animal",
+    "reported_at": "2024-01-15T00:00:00"
+  },
+  {
+    "lat": 6.079349,
+    "lon": 6.042418,
+    "true_cluster": 2,
+    "disease": "Yellow Fever",
+    "classification": "Confirmed",
+    "outcome": "Unknown",
+    "category": "Animal",
+    "reported_at": "2024-01-14T00:00:00"
+  },
+  {
+    "lat": 9.343674,
+    "lon": 13.781949,
+    "true_cluster": -1,
+    "disease": "Yellow Fever",
+    "classification": "Probable",
+    "outcome": "Unknown",
+    "category": "Human",
+    "reported_at": "2024-01-26T00:00:00"
+  },
+  {
+    "lat": 11.069221,
+    "lon": 4.853379,
+    "true_cluster": 5,
+    "disease": "Meningitis",
+    "classification": "Confirmed",
+    "outcome": "Dead",
+    "category": "Animal",
+    "reported_at": "2024-01-25T00:00:00"
+  },
+  {
+    "lat": 10.942265,
+    "lon": 4.875138,
+    "true_cluster": 5,
+    "disease": "Meningitis",
+    "classification": "Probable",
+    "outcome": "Dead",
+    "category": "Environmental",
+    "reported_at": "2024-01-02T00:00:00"
+  },
+  {
+    "lat": 8.660278,
+    "lon": 10.570455,
+    "true_cluster": 3,
+    "disease": "Lassa Fever",
+    "classification": "Probable",
+    "outcome": "Alive",
+    "category": "Human",
+    "reported_at": "2024-01-17T00:00:00"
+  },
+  {
+    "lat": 11.045829,
+    "lon": 4.8882,
+    "true_cluster": 5,
+    "disease": "Meningitis",
+    "classification": "Confirmed",
+    "outcome": "Unknown",
+    "category": "Animal",
+    "reported_at": "2024-01-03T00:00:00"
+  },
+  {
+    "lat": 6.485867,
+    "lon": 9.587801,
+    "true_cluster": 1,
+    "disease": "Yellow Fever",
+    "classification": "Suspected",
+    "outcome": "Unknown",
+    "category": "Environmental",
+    "reported_at": "2024-01-10T00:00:00"
+  },
+  {
+    "lat": 10.130957,
+    "lon": 4.020289,
+    "true_cluster": 0,
+    "disease": "Lassa Fever",
+    "classification": "Probable",
+    "outcome": "Alive",
+    "category": "Human",
+    "reported_at": "2024-01-13T00:00:00"
+  },
+  {
+    "lat": 6.176472,
+    "lon": 7.025324,
+    "true_cluster": 9,
+    "disease": "Meningitis",
+    "classification": "Suspected",
+    "outcome": "Unknown",
+    "category": "Environmental",
+    "reported_at": "2024-01-09T00:00:00"
+  },
+  {
+    "lat": 11.567862,
+    "lon": 11.82005,
+    "true_cluster": -1,
+    "disease": "Meningitis",
+    "classification": "Confirmed",
+    "outcome": "Alive",
+    "category": "Animal",
+    "reported_at": "2024-01-04T00:00:00"
+  },
+  {
+    "lat": 12.621871,
+    "lon": 8.56612,
+    "true_cluster": 7,
+    "disease": "Yellow Fever",
+    "classification": "Probable",
+    "outcome": "Alive",
+    "category": "Animal",
+    "reported_at": "2024-01-17T00:00:00"
+  },
+  {
+    "lat": 6.260166,
+    "lon": 7.0069,
+    "true_cluster": 9,
+    "disease": "Meningitis",
+    "classification": "Probable",
+    "outcome": "Dead",
+    "category": "Animal",
+    "reported_at": "2024-01-18T00:00:00"
+  },
+  {
+    "lat": 6.482839,
+    "lon": 9.693048,
+    "true_cluster": 1,
+    "disease": "Yellow Fever",
+    "classification": "Probable",
+    "outcome": "Dead",
+    "category": "Human",
+    "reported_at": "2024-01-03T00:00:00"
+  },
+  {
+    "lat": 6.490565,
+    "lon": 9.77267,
+    "true_cluster": 1,
+    "disease": "Yellow Fever",
+    "classification": "Probable",
+    "outcome": "Unknown",
+    "category": "Human",
+    "reported_at": "2024-01-15T00:00:00"
+  },
+  {
+    "lat": 12.579741,
+    "lon": 8.53916,
+    "true_cluster": 7,
+    "disease": "Yellow Fever",
+    "classification": "Suspected",
+    "outcome": "Unknown",
+    "category": "Animal",
+    "reported_at": "2024-01-30T00:00:00"
+  },
+  {
+    "lat": 5.599574,
+    "lon": 6.300147,
+    "true_cluster": 6,
+    "disease": "Cholera",
+    "classification": "Confirmed",
+    "outcome": "Dead",
+    "category": "Animal",
+    "reported_at": "2024-01-26T00:00:00"
+  },
+  {
+    "lat": 12.713644,
+    "lon": 8.51258,
+    "true_cluster": 7,
+    "disease": "Yellow Fever",
+    "classification": "Probable",
+    "outcome": "Unknown",
+    "category": "Animal",
+    "reported_at": "2024-01-18T00:00:00"
+  },
+  {
+    "lat": 5.714867,
+    "lon": 6.241795,
+    "true_cluster": 6,
+    "disease": "Cholera",
+    "classification": "Probable",
+    "outcome": "Unknown",
+    "category": "Human",
+    "reported_at": "2024-01-27T00:00:00"
+  },
+  {
+    "lat": 7.05304,
+    "lon": 5.636819,
+    "true_cluster": 8,
+    "disease": "Yellow Fever",
+    "classification": "Suspected",
+    "outcome": "Dead",
+    "category": "Animal",
+    "reported_at": "2024-01-31T00:00:00"
+  },
+  {
+    "lat": 10.046315,
+    "lon": 3.918983,
+    "true_cluster": 0,
+    "disease": "Lassa Fever",
+    "classification": "Suspected",
+    "outcome": "Alive",
+    "category": "Environmental",
+    "reported_at": "2024-01-16T00:00:00"
+  },
+  {
+    "lat": 6.159738,
+    "lon": 7.01839,
+    "true_cluster": 9,
+    "disease": "Meningitis",
+    "classification": "Confirmed",
+    "outcome": "Dead",
+    "category": "Environmental",
+    "reported_at": "2024-01-13T00:00:00"
+  },
+  {
+    "lat": 5.737172,
+    "lon": 6.213247,
+    "true_cluster": 6,
+    "disease": "Cholera",
+    "classification": "Confirmed",
+    "outcome": "Dead",
+    "category": "Environmental",
+    "reported_at": "2024-01-16T00:00:00"
+  },
+  {
+    "lat": 10.783748,
+    "lon": 4.624936,
+    "true_cluster": 4,
+    "disease": "Lassa Fever",
+    "classification": "Suspected",
+    "outcome": "Dead",
+    "category": "Animal",
+    "reported_at": "2024-01-27T00:00:00"
+  },
+  {
+    "lat": 6.484521,
+    "lon": 9.673156,
+    "true_cluster": 1,
+    "disease": "Yellow Fever",
+    "classification": "Suspected",
+    "outcome": "Unknown",
+    "category": "Environmental",
+    "reported_at": "2024-01-05T00:00:00"
+  },
+  {
+    "lat": 5.339478,
+    "lon": 4.11434,
+    "true_cluster": -1,
+    "disease": "Lassa Fever",
+    "classification": "Suspected",
+    "outcome": "Alive",
+    "category": "Animal",
+    "reported_at": "2024-01-23T00:00:00"
+  },
+  {
+    "lat": 10.055554,
+    "lon": 3.957151,
+    "true_cluster": 0,
+    "disease": "Lassa Fever",
+    "classification": "Probable",
+    "outcome": "Alive",
+    "category": "Human",
+    "reported_at": "2024-01-13T00:00:00"
+  },
+  {
+    "lat": 6.104007,
+    "lon": 6.02886,
+    "true_cluster": 2,
+    "disease": "Yellow Fever",
+    "classification": "Probable",
+    "outcome": "Alive",
+    "category": "Animal",
+    "reported_at": "2024-01-19T00:00:00"
+  },
+  {
+    "lat": 10.143782,
+    "lon": 3.946158,
+    "true_cluster": 0,
+    "disease": "Lassa Fever",
+    "classification": "Confirmed",
+    "outcome": "Alive",
+    "category": "Human",
+    "reported_at": "2024-01-22T00:00:00"
+  },
+  {
+    "lat": 6.174564,
+    "lon": 6.94848,
+    "true_cluster": 9,
+    "disease": "Meningitis",
+    "classification": "Probable",
+    "outcome": "Dead",
+    "category": "Human",
+    "reported_at": "2024-01-12T00:00:00"
+  },
+  {
+    "lat": 12.621787,
+    "lon": 8.511261,
+    "true_cluster": 7,
+    "disease": "Yellow Fever",
+    "classification": "Suspected",
+    "outcome": "Unknown",
+    "category": "Environmental",
+    "reported_at": "2024-01-24T00:00:00"
+  },
+  {
+    "lat": 10.853205,
+    "lon": 4.492403,
+    "true_cluster": 4,
+    "disease": "Lassa Fever",
+    "classification": "Confirmed",
+    "outcome": "Alive",
+    "category": "Environmental",
+    "reported_at": "2024-01-03T00:00:00"
+  },
+  {
+    "lat": 12.634151,
+    "lon": 8.578883,
+    "true_cluster": 7,
+    "disease": "Yellow Fever",
+    "classification": "Suspected",
+    "outcome": "Alive",
+    "category": "Animal",
+    "reported_at": "2024-01-17T00:00:00"
+  },
+  {
+    "lat": 7.08834,
+    "lon": 5.626193,
+    "true_cluster": 8,
+    "disease": "Yellow Fever",
+    "classification": "Suspected",
+    "outcome": "Unknown",
+    "category": "Environmental",
+    "reported_at": "2024-01-21T00:00:00"
+  },
+  {
+    "lat": 10.152769,
+    "lon": 3.985632,
+    "true_cluster": 0,
+    "disease": "Lassa Fever",
+    "classification": "Suspected",
+    "outcome": "Alive",
+    "category": "Animal",
+    "reported_at": "2024-01-01T00:00:00"
+  },
+  {
+    "lat": 5.593648,
+    "lon": 6.293762,
+    "true_cluster": 6,
+    "disease": "Cholera",
+    "classification": "Confirmed",
+    "outcome": "Alive",
+    "category": "Animal",
+    "reported_at": "2024-01-25T00:00:00"
+  },
+  {
+    "lat": 5.596309,
+    "lon": 6.239605,
+    "true_cluster": 6,
+    "disease": "Cholera",
+    "classification": "Confirmed",
+    "outcome": "Alive",
+    "category": "Environmental",
+    "reported_at": "2024-01-14T00:00:00"
+  },
+  {
+    "lat": 5.614267,
+    "lon": 6.266258,
+    "true_cluster": 6,
+    "disease": "Cholera",
+    "classification": "Suspected",
+    "outcome": "Unknown",
+    "category": "Animal",
+    "reported_at": "2024-01-22T00:00:00"
+  },
+  {
+    "lat": 6.25147,
+    "lon": 6.932009,
+    "true_cluster": 9,
+    "disease": "Meningitis",
+    "classification": "Confirmed",
+    "outcome": "Unknown",
+    "category": "Environmental",
+    "reported_at": "2024-01-16T00:00:00"
+  },
+  {
+    "lat": 5.702546,
+    "lon": 6.162945,
+    "true_cluster": 6,
+    "disease": "Cholera",
+    "classification": "Confirmed",
+    "outcome": "Dead",
+    "category": "Human",
+    "reported_at": "2024-01-05T00:00:00"
+  },
+  {
+    "lat": 7.014324,
+    "lon": 5.615171,
+    "true_cluster": 8,
+    "disease": "Yellow Fever",
+    "classification": "Probable",
+    "outcome": "Dead",
+    "category": "Human",
+    "reported_at": "2024-01-26T00:00:00"
+  },
+  {
+    "lat": 6.273273,
+    "lon": 7.034387,
+    "true_cluster": 9,
+    "disease": "Meningitis",
+    "classification": "Confirmed",
+    "outcome": "Dead",
+    "category": "Animal",
+    "reported_at": "2024-01-01T00:00:00"
+  },
+  {
+    "lat": 8.585819,
+    "lon": 10.558033,
+    "true_cluster": 3,
+    "disease": "Lassa Fever",
+    "classification": "Suspected",
+    "outcome": "Alive",
+    "category": "Human",
+    "reported_at": "2024-01-15T00:00:00"
+  },
+  {
+    "lat": 7.089519,
+    "lon": 5.60827,
+    "true_cluster": 8,
+    "disease": "Yellow Fever",
+    "classification": "Suspected",
+    "outcome": "Unknown",
+    "category": "Human",
+    "reported_at": "2024-01-02T00:00:00"
+  },
+  {
+    "lat": 6.470002,
+    "lon": 9.619875,
+    "true_cluster": 1,
+    "disease": "Yellow Fever",
+    "classification": "Probable",
+    "outcome": "Dead",
+    "category": "Human",
+    "reported_at": "2024-01-31T00:00:00"
+  },
+  {
+    "lat": 6.991611,
+    "lon": 5.553444,
+    "true_cluster": 8,
+    "disease": "Yellow Fever",
+    "classification": "Suspected",
+    "outcome": "Unknown",
+    "category": "Human",
+    "reported_at": "2024-01-23T00:00:00"
+  },
+  {
+    "lat": 9.774255,
+    "lon": 5.924606,
+    "true_cluster": -1,
+    "disease": "Meningitis",
+    "classification": "Probable",
+    "outcome": "Dead",
+    "category": "Human",
+    "reported_at": "2024-01-21T00:00:00"
+  },
+  {
+    "lat": 10.954911,
+    "lon": 4.832592,
+    "true_cluster": 5,
+    "disease": "Meningitis",
+    "classification": "Suspected",
+    "outcome": "Unknown",
+    "category": "Environmental",
+    "reported_at": "2024-01-07T00:00:00"
+  },
+  {
+    "lat": 10.03624,
+    "lon": 4.005662,
+    "true_cluster": 0,
+    "disease": "Lassa Fever",
+    "classification": "Probable",
+    "outcome": "Alive",
+    "category": "Human",
+    "reported_at": "2024-01-07T00:00:00"
+  },
+  {
+    "lat": 8.640099,
+    "lon": 10.59094,
+    "true_cluster": 3,
+    "disease": "Lassa Fever",
+    "classification": "Confirmed",
+    "outcome": "Dead",
+    "category": "Environmental",
+    "reported_at": "2024-01-27T00:00:00"
+  },
+  {
+    "lat": 7.152186,
+    "lon": 5.582135,
+    "true_cluster": 8,
+    "disease": "Yellow Fever",
+    "classification": "Confirmed",
+    "outcome": "Unknown",
+    "category": "Environmental",
+    "reported_at": "2024-01-28T00:00:00"
+  },
+  {
+    "lat": 6.059622,
+    "lon": 5.987716,
+    "true_cluster": 2,
+    "disease": "Yellow Fever",
+    "classification": "Confirmed",
+    "outcome": "Alive",
+    "category": "Human",
+    "reported_at": "2024-01-05T00:00:00"
+  },
+  {
+    "lat": 6.429183,
+    "lon": 9.643127,
+    "true_cluster": 1,
+    "disease": "Yellow Fever",
+    "classification": "Confirmed",
+    "outcome": "Unknown",
+    "category": "Environmental",
+    "reported_at": "2024-01-31T00:00:00"
+  },
+  {
+    "lat": 5.654818,
+    "lon": 6.235646,
+    "true_cluster": 6,
+    "disease": "Cholera",
+    "classification": "Probable",
+    "outcome": "Dead",
+    "category": "Human",
+    "reported_at": "2024-01-26T00:00:00"
+  },
+  {
+    "lat": 11.025418,
+    "lon": 4.850254,
+    "true_cluster": 5,
+    "disease": "Meningitis",
+    "classification": "Probable",
+    "outcome": "Unknown",
+    "category": "Environmental",
+    "reported_at": "2024-01-02T00:00:00"
+  },
+  {
+    "lat": 11.03357,
+    "lon": 4.837264,
+    "true_cluster": 5,
+    "disease": "Meningitis",
+    "classification": "Confirmed",
+    "outcome": "Alive",
+    "category": "Animal",
+    "reported_at": "2024-01-12T00:00:00"
+  },
+  {
+    "lat": 5.684497,
+    "lon": 6.285829,
+    "true_cluster": 6,
+    "disease": "Cholera",
+    "classification": "Suspected",
+    "outcome": "Unknown",
+    "category": "Animal",
+    "reported_at": "2024-01-13T00:00:00"
+  },
+  {
+    "lat": 10.181697,
+    "lon": 3.91542,
+    "true_cluster": 0,
+    "disease": "Lassa Fever",
+    "classification": "Probable",
+    "outcome": "Unknown",
+    "category": "Human",
+    "reported_at": "2024-01-02T00:00:00"
+  },
+  {
+    "lat": 10.853321,
+    "lon": 4.662336,
+    "true_cluster": 4,
+    "disease": "Lassa Fever",
+    "classification": "Suspected",
+    "outcome": "Dead",
+    "category": "Animal",
+    "reported_at": "2024-01-22T00:00:00"
+  },
+  {
+    "lat": 4.291923,
+    "lon": 10.069283,
+    "true_cluster": -1,
+    "disease": "Cholera",
+    "classification": "Probable",
+    "outcome": "Unknown",
+    "category": "Animal",
+    "reported_at": "2024-01-13T00:00:00"
+  },
+  {
+    "lat": 10.929528,
+    "lon": 4.58703,
+    "true_cluster": 4,
+    "disease": "Lassa Fever",
+    "classification": "Probable",
+    "outcome": "Alive",
+    "category": "Environmental",
+    "reported_at": "2024-01-07T00:00:00"
+  },
+  {
+    "lat": 10.878456,
+    "lon": 4.629957,
+    "true_cluster": 4,
+    "disease": "Lassa Fever",
+    "classification": "Probable",
+    "outcome": "Unknown",
+    "category": "Human",
+    "reported_at": "2024-01-27T00:00:00"
+  },
+  {
+    "lat": 13.363361,
+    "lon": 7.128854,
+    "true_cluster": -1,
+    "disease": "Meningitis",
+    "classification": "Probable",
+    "outcome": "Unknown",
+    "category": "Human",
+    "reported_at": "2024-01-28T00:00:00"
+  },
+  {
+    "lat": 11.000377,
+    "lon": 4.931802,
+    "true_cluster": 5,
+    "disease": "Meningitis",
+    "classification": "Probable",
+    "outcome": "Unknown",
+    "category": "Animal",
+    "reported_at": "2024-01-23T00:00:00"
+  },
+  {
+    "lat": 12.727888,
+    "lon": 8.581367,
+    "true_cluster": 7,
+    "disease": "Yellow Fever",
+    "classification": "Probable",
+    "outcome": "Dead",
+    "category": "Environmental",
+    "reported_at": "2024-01-31T00:00:00"
+  },
+  {
+    "lat": 5.579692,
+    "lon": 6.277907,
+    "true_cluster": 6,
+    "disease": "Cholera",
+    "classification": "Confirmed",
+    "outcome": "Dead",
+    "category": "Environmental",
+    "reported_at": "2024-01-14T00:00:00"
+  },
+  {
+    "lat": 11.359887,
+    "lon": 10.54406,
+    "true_cluster": -1,
+    "disease": "Cholera",
+    "classification": "Probable",
+    "outcome": "Alive",
+    "category": "Animal",
+    "reported_at": "2024-01-09T00:00:00"
+  },
+  {
+    "lat": 11.040642,
+    "lon": 4.864267,
+    "true_cluster": 5,
+    "disease": "Meningitis",
+    "classification": "Confirmed",
+    "outcome": "Dead",
+    "category": "Environmental",
+    "reported_at": "2024-01-03T00:00:00"
+  },
+  {
+    "lat": 10.949736,
+    "lon": 4.579758,
+    "true_cluster": 4,
+    "disease": "Lassa Fever",
+    "classification": "Suspected",
+    "outcome": "Alive",
+    "category": "Environmental",
+    "reported_at": "2024-01-24T00:00:00"
+  },
+  {
+    "lat": 6.999985,
+    "lon": 5.528851,
+    "true_cluster": 8,
+    "disease": "Yellow Fever",
+    "classification": "Confirmed",
+    "outcome": "Alive",
+    "category": "Animal",
+    "reported_at": "2024-01-21T00:00:00"
+  },
+  {
+    "lat": 10.063291,
+    "lon": 3.933243,
+    "true_cluster": 0,
+    "disease": "Lassa Fever",
+    "classification": "Probable",
+    "outcome": "Unknown",
+    "category": "Environmental",
+    "reported_at": "2024-01-14T00:00:00"
+  },
+  {
+    "lat": 10.088342,
+    "lon": 3.964516,
+    "true_cluster": 0,
+    "disease": "Lassa Fever",
+    "classification": "Suspected",
+    "outcome": "Dead",
+    "category": "Animal",
+    "reported_at": "2024-01-20T00:00:00"
+  },
+  {
+    "lat": 6.123687,
+    "lon": 5.983098,
+    "true_cluster": 2,
+    "disease": "Yellow Fever",
+    "classification": "Probable",
+    "outcome": "Alive",
+    "category": "Animal",
+    "reported_at": "2024-01-01T00:00:00"
+  },
+  {
+    "lat": 6.115417,
+    "lon": 6.081162,
+    "true_cluster": 2,
+    "disease": "Yellow Fever",
+    "classification": "Confirmed",
+    "outcome": "Alive",
+    "category": "Animal",
+    "reported_at": "2024-01-04T00:00:00"
+  },
+  {
+    "lat": 10.155069,
+    "lon": 3.989676,
+    "true_cluster": 0,
+    "disease": "Lassa Fever",
+    "classification": "Probable",
+    "outcome": "Alive",
+    "category": "Environmental",
+    "reported_at": "2024-01-10T00:00:00"
+  },
+  {
+    "lat": 10.12118,
+    "lon": 3.996012,
+    "true_cluster": 0,
+    "disease": "Lassa Fever",
+    "classification": "Suspected",
+    "outcome": "Alive",
+    "category": "Human",
+    "reported_at": "2024-01-23T00:00:00"
+  },
+  {
+    "lat": 5.626792,
+    "lon": 6.210539,
+    "true_cluster": 6,
+    "disease": "Cholera",
+    "classification": "Confirmed",
+    "outcome": "Dead",
+    "category": "Human",
+    "reported_at": "2024-01-25T00:00:00"
+  },
+  {
+    "lat": 9.10806,
+    "lon": 9.572569,
+    "true_cluster": -1,
+    "disease": "Lassa Fever",
+    "classification": "Confirmed",
+    "outcome": "Dead",
+    "category": "Environmental",
+    "reported_at": "2024-01-27T00:00:00"
+  },
+  {
+    "lat": 10.100621,
+    "lon": 3.943028,
+    "true_cluster": 0,
+    "disease": "Lassa Fever",
+    "classification": "Probable",
+    "outcome": "Alive",
+    "category": "Animal",
+    "reported_at": "2024-01-26T00:00:00"
+  },
+  {
+    "lat": 12.607034,
+    "lon": 8.519082,
+    "true_cluster": 7,
+    "disease": "Yellow Fever",
+    "classification": "Confirmed",
+    "outcome": "Alive",
+    "category": "Human",
+    "reported_at": "2024-01-14T00:00:00"
+  },
+  {
+    "lat": 10.869595,
+    "lon": 4.672341,
+    "true_cluster": 4,
+    "disease": "Lassa Fever",
+    "classification": "Probable",
+    "outcome": "Unknown",
+    "category": "Environmental",
+    "reported_at": "2024-01-20T00:00:00"
+  },
+  {
+    "lat": 12.559939,
+    "lon": 8.585956,
+    "true_cluster": 7,
+    "disease": "Yellow Fever",
+    "classification": "Confirmed",
+    "outcome": "Dead",
+    "category": "Human",
+    "reported_at": "2024-01-22T00:00:00"
+  },
+  {
+    "lat": 12.137383,
+    "lon": 11.17186,
+    "true_cluster": -1,
+    "disease": "Lassa Fever",
+    "classification": "Confirmed",
+    "outcome": "Unknown",
+    "category": "Human",
+    "reported_at": "2024-01-22T00:00:00"
+  },
+  {
+    "lat": 5.677069,
+    "lon": 6.267573,
+    "true_cluster": 6,
+    "disease": "Cholera",
+    "classification": "Confirmed",
+    "outcome": "Unknown",
+    "category": "Animal",
+    "reported_at": "2024-01-21T00:00:00"
+  },
+  {
+    "lat": 11.035884,
+    "lon": 4.827262,
+    "true_cluster": 5,
+    "disease": "Meningitis",
+    "classification": "Probable",
+    "outcome": "Alive",
+    "category": "Environmental",
+    "reported_at": "2024-01-23T00:00:00"
+  },
+  {
+    "lat": 8.607398,
+    "lon": 10.519446,
+    "true_cluster": 3,
+    "disease": "Lassa Fever",
+    "classification": "Suspected",
+    "outcome": "Alive",
+    "category": "Human",
+    "reported_at": "2024-01-03T00:00:00"
+  },
+  {
+    "lat": 10.9107,
+    "lon": 4.56452,
+    "true_cluster": 4,
+    "disease": "Lassa Fever",
+    "classification": "Confirmed",
+    "outcome": "Dead",
+    "category": "Human",
+    "reported_at": "2024-01-13T00:00:00"
+  },
+  {
+    "lat": 10.978147,
+    "lon": 4.827475,
+    "true_cluster": 5,
+    "disease": "Meningitis",
+    "classification": "Suspected",
+    "outcome": "Alive",
+    "category": "Environmental",
+    "reported_at": "2024-01-05T00:00:00"
+  },
+  {
+    "lat": 7.10955,
+    "lon": 5.502707,
+    "true_cluster": 8,
+    "disease": "Yellow Fever",
+    "classification": "Suspected",
+    "outcome": "Alive",
+    "category": "Environmental",
+    "reported_at": "2024-01-10T00:00:00"
+  },
+  {
+    "lat": 7.07129,
+    "lon": 5.595552,
+    "true_cluster": 8,
+    "disease": "Yellow Fever",
+    "classification": "Probable",
+    "outcome": "Dead",
+    "category": "Environmental",
+    "reported_at": "2024-01-20T00:00:00"
+  },
+  {
+    "lat": 8.612624,
+    "lon": 10.543271,
+    "true_cluster": 3,
+    "disease": "Lassa Fever",
+    "classification": "Suspected",
+    "outcome": "Unknown",
+    "category": "Human",
+    "reported_at": "2024-01-29T00:00:00"
+  },
+  {
+    "lat": 6.467011,
+    "lon": 9.616291,
+    "true_cluster": 1,
+    "disease": "Yellow Fever",
+    "classification": "Probable",
+    "outcome": "Unknown",
+    "category": "Animal",
+    "reported_at": "2024-01-20T00:00:00"
+  },
+  {
+    "lat": 8.601898,
+    "lon": 10.635052,
+    "true_cluster": 3,
+    "disease": "Lassa Fever",
+    "classification": "Probable",
+    "outcome": "Unknown",
+    "category": "Human",
+    "reported_at": "2024-01-22T00:00:00"
+  },
+  {
+    "lat": 8.679534,
+    "lon": 10.607501,
+    "true_cluster": 3,
+    "disease": "Lassa Fever",
+    "classification": "Confirmed",
+    "outcome": "Unknown",
+    "category": "Human",
+    "reported_at": "2024-01-15T00:00:00"
+  },
+  {
+    "lat": 10.171235,
+    "lon": 3.870677,
+    "true_cluster": 0,
+    "disease": "Lassa Fever",
+    "classification": "Confirmed",
+    "outcome": "Dead",
+    "category": "Human",
+    "reported_at": "2024-01-24T00:00:00"
+  },
+  {
+    "lat": 4.951837,
+    "lon": 5.261054,
+    "true_cluster": -1,
+    "disease": "Malaria",
+    "classification": "Suspected",
+    "outcome": "Unknown",
+    "category": "Human",
+    "reported_at": "2024-01-17T00:00:00"
+  },
+  {
+    "lat": 10.988629,
+    "lon": 4.850327,
+    "true_cluster": 5,
+    "disease": "Meningitis",
+    "classification": "Confirmed",
+    "outcome": "Unknown",
+    "category": "Human",
+    "reported_at": "2024-01-15T00:00:00"
+  },
+  {
+    "lat": 10.078323,
+    "lon": 3.883654,
+    "true_cluster": 0,
+    "disease": "Lassa Fever",
+    "classification": "Suspected",
+    "outcome": "Unknown",
+    "category": "Human",
+    "reported_at": "2024-01-24T00:00:00"
+  },
+  {
+    "lat": 5.589942,
+    "lon": 6.220661,
+    "true_cluster": 6,
+    "disease": "Cholera",
+    "classification": "Suspected",
+    "outcome": "Unknown",
+    "category": "Animal",
+    "reported_at": "2024-01-06T00:00:00"
+  },
+  {
+    "lat": 5.596031,
+    "lon": 6.229902,
+    "true_cluster": 6,
+    "disease": "Cholera",
+    "classification": "Confirmed",
+    "outcome": "Dead",
+    "category": "Animal",
+    "reported_at": "2024-01-12T00:00:00"
+  },
+  {
+    "lat": 11.036494,
+    "lon": 4.777205,
+    "true_cluster": 5,
+    "disease": "Meningitis",
+    "classification": "Probable",
+    "outcome": "Alive",
+    "category": "Animal",
+    "reported_at": "2024-01-30T00:00:00"
+  },
+  {
+    "lat": 4.006759,
+    "lon": 14.196381,
+    "true_cluster": -1,
+    "disease": "Cholera",
+    "classification": "Confirmed",
+    "outcome": "Alive",
+    "category": "Environmental",
+    "reported_at": "2024-01-10T00:00:00"
+  },
+  {
+    "lat": 6.431015,
+    "lon": 9.634875,
+    "true_cluster": 1,
+    "disease": "Yellow Fever",
+    "classification": "Probable",
+    "outcome": "Unknown",
+    "category": "Environmental",
+    "reported_at": "2024-01-17T00:00:00"
+  },
+  {
+    "lat": 8.589843,
+    "lon": 10.52475,
+    "true_cluster": 3,
+    "disease": "Lassa Fever",
+    "classification": "Confirmed",
+    "outcome": "Dead",
+    "category": "Environmental",
+    "reported_at": "2024-01-25T00:00:00"
+  },
+  {
+    "lat": 10.947062,
+    "lon": 4.839695,
+    "true_cluster": 5,
+    "disease": "Meningitis",
+    "classification": "Probable",
+    "outcome": "Alive",
+    "category": "Human",
+    "reported_at": "2024-01-13T00:00:00"
+  },
+  {
+    "lat": 6.086159,
+    "lon": 6.018,
+    "true_cluster": 2,
+    "disease": "Yellow Fever",
+    "classification": "Suspected",
+    "outcome": "Dead",
+    "category": "Human",
+    "reported_at": "2024-01-24T00:00:00"
+  },
+  {
+    "lat": 7.024486,
+    "lon": 5.482807,
+    "true_cluster": 8,
+    "disease": "Yellow Fever",
+    "classification": "Confirmed",
+    "outcome": "Dead",
+    "category": "Environmental",
+    "reported_at": "2024-01-04T00:00:00"
+  },
+  {
+    "lat": 6.207826,
+    "lon": 7.047507,
+    "true_cluster": 9,
+    "disease": "Meningitis",
+    "classification": "Confirmed",
+    "outcome": "Unknown",
+    "category": "Environmental",
+    "reported_at": "2024-01-14T00:00:00"
+  },
+  {
+    "lat": 7.078094,
+    "lon": 5.546903,
+    "true_cluster": 8,
+    "disease": "Yellow Fever",
+    "classification": "Probable",
+    "outcome": "Unknown",
+    "category": "Animal",
+    "reported_at": "2024-01-03T00:00:00"
+  },
+  {
+    "lat": 10.156429,
+    "lon": 3.984857,
+    "true_cluster": 0,
+    "disease": "Lassa Fever",
+    "classification": "Probable",
+    "outcome": "Dead",
+    "category": "Human",
+    "reported_at": "2024-01-02T00:00:00"
+  },
+  {
+    "lat": 10.904373,
+    "lon": 4.508939,
+    "true_cluster": -1,
+    "disease": "Malaria",
+    "classification": "Probable",
+    "outcome": "Alive",
+    "category": "Animal",
+    "reported_at": "2024-01-14T00:00:00"
+  },
+  {
+    "lat": 8.602551,
+    "lon": 10.534223,
+    "true_cluster": 3,
+    "disease": "Lassa Fever",
+    "classification": "Probable",
+    "outcome": "Alive",
+    "category": "Human",
+    "reported_at": "2024-01-02T00:00:00"
+  },
+  {
+    "lat": 10.800943,
+    "lon": 4.63535,
+    "true_cluster": 4,
+    "disease": "Lassa Fever",
+    "classification": "Suspected",
+    "outcome": "Alive",
+    "category": "Environmental",
+    "reported_at": "2024-01-29T00:00:00"
+  },
+  {
+    "lat": 12.718377,
+    "lon": 8.504345,
+    "true_cluster": 7,
+    "disease": "Yellow Fever",
+    "classification": "Probable",
+    "outcome": "Dead",
+    "category": "Environmental",
+    "reported_at": "2024-01-07T00:00:00"
+  },
+  {
+    "lat": 6.512066,
+    "lon": 9.604418,
+    "true_cluster": 1,
+    "disease": "Yellow Fever",
+    "classification": "Confirmed",
+    "outcome": "Dead",
+    "category": "Human",
+    "reported_at": "2024-01-24T00:00:00"
+  },
+  {
+    "lat": 11.016934,
+    "lon": 4.894997,
+    "true_cluster": 5,
+    "disease": "Meningitis",
+    "classification": "Probable",
+    "outcome": "Alive",
+    "category": "Animal",
+    "reported_at": "2024-01-25T00:00:00"
+  },
+  {
+    "lat": 5.653004,
+    "lon": 6.21371,
+    "true_cluster": 6,
+    "disease": "Cholera",
+    "classification": "Suspected",
+    "outcome": "Unknown",
+    "category": "Animal",
+    "reported_at": "2024-01-23T00:00:00"
+  },
+  {
+    "lat": 10.997326,
+    "lon": 4.815149,
+    "true_cluster": 5,
+    "disease": "Meningitis",
+    "classification": "Confirmed",
+    "outcome": "Unknown",
+    "category": "Environmental",
+    "reported_at": "2024-01-21T00:00:00"
+  },
+  {
+    "lat": 5.462434,
+    "lon": 6.565161,
+    "true_cluster": -1,
+    "disease": "Cholera",
+    "classification": "Confirmed",
+    "outcome": "Dead",
+    "category": "Animal",
+    "reported_at": "2024-01-05T00:00:00"
+  },
+  {
+    "lat": 8.586152,
+    "lon": 10.592856,
+    "true_cluster": 3,
+    "disease": "Lassa Fever",
+    "classification": "Confirmed",
+    "outcome": "Alive",
+    "category": "Animal",
+    "reported_at": "2024-01-24T00:00:00"
+  },
+  {
+    "lat": 7.003007,
+    "lon": 5.539152,
+    "true_cluster": 8,
+    "disease": "Yellow Fever",
+    "classification": "Suspected",
+    "outcome": "Unknown",
+    "category": "Human",
+    "reported_at": "2024-01-01T00:00:00"
+  },
+  {
+    "lat": 5.639507,
+    "lon": 6.265292,
+    "true_cluster": 6,
+    "disease": "Cholera",
+    "classification": "Suspected",
+    "outcome": "Alive",
+    "category": "Animal",
+    "reported_at": "2024-01-13T00:00:00"
+  },
+  {
+    "lat": 7.05385,
+    "lon": 5.516173,
+    "true_cluster": 8,
+    "disease": "Yellow Fever",
+    "classification": "Suspected",
+    "outcome": "Unknown",
+    "category": "Environmental",
+    "reported_at": "2024-01-14T00:00:00"
+  },
+  {
+    "lat": 7.104699,
+    "lon": 5.576124,
+    "true_cluster": 8,
+    "disease": "Yellow Fever",
+    "classification": "Probable",
+    "outcome": "Unknown",
+    "category": "Environmental",
+    "reported_at": "2024-01-13T00:00:00"
+  },
+  {
+    "lat": 10.177807,
+    "lon": 3.945994,
+    "true_cluster": 0,
+    "disease": "Lassa Fever",
+    "classification": "Confirmed",
+    "outcome": "Unknown",
+    "category": "Environmental",
+    "reported_at": "2024-01-08T00:00:00"
+  },
+  {
+    "lat": 12.5946,
+    "lon": 8.50554,
+    "true_cluster": 7,
+    "disease": "Yellow Fever",
+    "classification": "Probable",
+    "outcome": "Alive",
+    "category": "Animal",
+    "reported_at": "2024-01-04T00:00:00"
+  },
+  {
+    "lat": 6.165768,
+    "lon": 6.979482,
+    "true_cluster": 9,
+    "disease": "Meningitis",
+    "classification": "Probable",
+    "outcome": "Alive",
+    "category": "Human",
+    "reported_at": "2024-01-03T00:00:00"
+  },
+  {
+    "lat": 12.603623,
+    "lon": 8.531345,
+    "true_cluster": 7,
+    "disease": "Yellow Fever",
+    "classification": "Suspected",
+    "outcome": "Unknown",
+    "category": "Animal",
+    "reported_at": "2024-01-09T00:00:00"
+  },
+  {
+    "lat": 6.053906,
+    "lon": 6.03259,
+    "true_cluster": 2,
+    "disease": "Yellow Fever",
+    "classification": "Confirmed",
+    "outcome": "Dead",
+    "category": "Animal",
+    "reported_at": "2024-01-19T00:00:00"
+  },
+  {
+    "lat": 5.656316,
+    "lon": 6.308909,
+    "true_cluster": 6,
+    "disease": "Cholera",
+    "classification": "Suspected",
+    "outcome": "Alive",
+    "category": "Environmental",
+    "reported_at": "2024-01-25T00:00:00"
+  },
+  {
+    "lat": 12.684517,
+    "lon": 8.471007,
+    "true_cluster": 7,
+    "disease": "Yellow Fever",
+    "classification": "Confirmed",
+    "outcome": "Dead",
+    "category": "Environmental",
+    "reported_at": "2024-01-19T00:00:00"
+  },
+  {
+    "lat": 11.68954,
+    "lon": 10.59122,
+    "true_cluster": -1,
+    "disease": "Lassa Fever",
+    "classification": "Suspected",
+    "outcome": "Unknown",
+    "category": "Environmental",
+    "reported_at": "2024-01-02T00:00:00"
+  },
+  {
+    "lat": 5.597487,
+    "lon": 6.217692,
+    "true_cluster": 6,
+    "disease": "Cholera",
+    "classification": "Probable",
+    "outcome": "Dead",
+    "category": "Environmental",
+    "reported_at": "2024-01-01T00:00:00"
+  },
+  {
+    "lat": 11.058094,
+    "lon": 4.919224,
+    "true_cluster": 5,
+    "disease": "Meningitis",
+    "classification": "Probable",
+    "outcome": "Alive",
+    "category": "Human",
+    "reported_at": "2024-01-05T00:00:00"
+  },
+  {
+    "lat": 6.074042,
+    "lon": 6.055191,
+    "true_cluster": 2,
+    "disease": "Yellow Fever",
+    "classification": "Probable",
+    "outcome": "Dead",
+    "category": "Animal",
+    "reported_at": "2024-01-29T00:00:00"
+  },
+  {
+    "lat": 10.075226,
+    "lon": 3.939631,
+    "true_cluster": 0,
+    "disease": "Lassa Fever",
+    "classification": "Suspected",
+    "outcome": "Alive",
+    "category": "Human",
+    "reported_at": "2024-01-06T00:00:00"
+  },
+  {
+    "lat": 5.564272,
+    "lon": 6.283647,
+    "true_cluster": 6,
+    "disease": "Cholera",
+    "classification": "Confirmed",
+    "outcome": "Dead",
+    "category": "Environmental",
+    "reported_at": "2024-01-30T00:00:00"
+  },
+  {
+    "lat": 6.185323,
+    "lon": 6.038817,
+    "true_cluster": 2,
+    "disease": "Yellow Fever",
+    "classification": "Probable",
+    "outcome": "Alive",
+    "category": "Human",
+    "reported_at": "2024-01-13T00:00:00"
+  },
+  {
+    "lat": 11.995024,
+    "lon": 9.142668,
+    "true_cluster": -1,
+    "disease": "Lassa Fever",
+    "classification": "Probable",
+    "outcome": "Alive",
+    "category": "Animal",
+    "reported_at": "2024-01-04T00:00:00"
+  },
+  {
+    "lat": 6.501413,
+    "lon": 9.632119,
+    "true_cluster": 1,
+    "disease": "Yellow Fever",
+    "classification": "Suspected",
+    "outcome": "Alive",
+    "category": "Animal",
+    "reported_at": "2024-01-12T00:00:00"
+  },
+  {
+    "lat": 7.063641,
+    "lon": 5.625996,
+    "true_cluster": 8,
+    "disease": "Yellow Fever",
+    "classification": "Confirmed",
+    "outcome": "Alive",
+    "category": "Animal",
+    "reported_at": "2024-01-10T00:00:00"
+  },
+  {
+    "lat": 5.705456,
+    "lon": 6.2502,
+    "true_cluster": 6,
+    "disease": "Cholera",
+    "classification": "Suspected",
+    "outcome": "Alive",
+    "category": "Environmental",
+    "reported_at": "2024-01-21T00:00:00"
+  },
+  {
+    "lat": 7.009665,
+    "lon": 5.498122,
+    "true_cluster": 8,
+    "disease": "Yellow Fever",
+    "classification": "Probable",
+    "outcome": "Dead",
+    "category": "Human",
+    "reported_at": "2024-01-18T00:00:00"
+  },
+  {
+    "lat": 10.530698,
+    "lon": 7.609612,
+    "true_cluster": -1,
+    "disease": "Meningitis",
+    "classification": "Probable",
+    "outcome": "Unknown",
+    "category": "Animal",
+    "reported_at": "2024-01-16T00:00:00"
+  },
+  {
+    "lat": 12.647936,
+    "lon": 8.540428,
+    "true_cluster": 7,
+    "disease": "Yellow Fever",
+    "classification": "Confirmed",
+    "outcome": "Alive",
+    "category": "Human",
+    "reported_at": "2024-01-21T00:00:00"
+  },
+  {
+    "lat": 6.07465,
+    "lon": 6.043375,
+    "true_cluster": 2,
+    "disease": "Yellow Fever",
+    "classification": "Suspected",
+    "outcome": "Dead",
+    "category": "Animal",
+    "reported_at": "2024-01-06T00:00:00"
+  },
+  {
+    "lat": 6.134581,
+    "lon": 6.003483,
+    "true_cluster": 2,
+    "disease": "Yellow Fever",
+    "classification": "Suspected",
+    "outcome": "Alive",
+    "category": "Human",
+    "reported_at": "2024-01-18T00:00:00"
+  },
+  {
+    "lat": 6.130779,
+    "lon": 5.982628,
+    "true_cluster": 2,
+    "disease": "Yellow Fever",
+    "classification": "Confirmed",
+    "outcome": "Dead",
+    "category": "Animal",
+    "reported_at": "2024-01-01T00:00:00"
+  },
+  {
+    "lat": 6.487937,
+    "lon": 9.664376,
+    "true_cluster": 1,
+    "disease": "Yellow Fever",
+    "classification": "Probable",
+    "outcome": "Alive",
+    "category": "Human",
+    "reported_at": "2024-01-05T00:00:00"
+  },
+  {
+    "lat": 10.861215,
+    "lon": 4.632086,
+    "true_cluster": 4,
+    "disease": "Lassa Fever",
+    "classification": "Probable",
+    "outcome": "Alive",
+    "category": "Human",
+    "reported_at": "2024-01-09T00:00:00"
+  },
+  {
+    "lat": 6.23917,
+    "lon": 7.043846,
+    "true_cluster": 9,
+    "disease": "Meningitis",
+    "classification": "Confirmed",
+    "outcome": "Unknown",
+    "category": "Human",
+    "reported_at": "2024-01-17T00:00:00"
+  },
+  {
+    "lat": 7.156457,
+    "lon": 5.539454,
+    "true_cluster": 8,
+    "disease": "Yellow Fever",
+    "classification": "Confirmed",
+    "outcome": "Alive",
+    "category": "Environmental",
+    "reported_at": "2024-01-28T00:00:00"
+  },
+  {
+    "lat": 8.632094,
+    "lon": 10.641438,
+    "true_cluster": 3,
+    "disease": "Lassa Fever",
+    "classification": "Suspected",
+    "outcome": "Alive",
+    "category": "Environmental",
+    "reported_at": "2024-01-27T00:00:00"
+  },
+  {
+    "lat": 10.860429,
+    "lon": 4.59478,
+    "true_cluster": 4,
+    "disease": "Lassa Fever",
+    "classification": "Suspected",
+    "outcome": "Alive",
+    "category": "Environmental",
+    "reported_at": "2024-01-07T00:00:00"
+  },
+  {
+    "lat": 12.594683,
+    "lon": 8.488311,
+    "true_cluster": 7,
+    "disease": "Yellow Fever",
+    "classification": "Confirmed",
+    "outcome": "Unknown",
+    "category": "Animal",
+    "reported_at": "2024-01-10T00:00:00"
+  },
+  {
+    "lat": 6.220569,
+    "lon": 7.046275,
+    "true_cluster": 9,
+    "disease": "Meningitis",
+    "classification": "Confirmed",
+    "outcome": "Unknown",
+    "category": "Environmental",
+    "reported_at": "2024-01-11T00:00:00"
+  },
+  {
+    "lat": 8.623371,
+    "lon": 10.561991,
+    "true_cluster": 3,
+    "disease": "Lassa Fever",
+    "classification": "Suspected",
+    "outcome": "Dead",
+    "category": "Environmental",
+    "reported_at": "2024-01-10T00:00:00"
+  },
+  {
+    "lat": 4.824205,
+    "lon": 10.674106,
+    "true_cluster": -1,
+    "disease": "Yellow Fever",
+    "classification": "Suspected",
+    "outcome": "Alive",
+    "category": "Animal",
+    "reported_at": "2024-01-21T00:00:00"
+  },
+  {
+    "lat": 6.487006,
+    "lon": 9.68559,
+    "true_cluster": 1,
+    "disease": "Yellow Fever",
+    "classification": "Suspected",
+    "outcome": "Unknown",
+    "category": "Human",
+    "reported_at": "2024-01-13T00:00:00"
+  },
+  {
+    "lat": 6.073147,
+    "lon": 5.984747,
+    "true_cluster": 2,
+    "disease": "Yellow Fever",
+    "classification": "Confirmed",
+    "outcome": "Alive",
+    "category": "Human",
+    "reported_at": "2024-01-21T00:00:00"
+  },
+  {
+    "lat": 6.101198,
+    "lon": 6.047096,
+    "true_cluster": 2,
+    "disease": "Yellow Fever",
+    "classification": "Confirmed",
+    "outcome": "Unknown",
+    "category": "Environmental",
+    "reported_at": "2024-01-10T00:00:00"
+  },
+  {
+    "lat": 12.685596,
+    "lon": 8.530503,
+    "true_cluster": 7,
+    "disease": "Yellow Fever",
+    "classification": "Confirmed",
+    "outcome": "Alive",
+    "category": "Animal",
+    "reported_at": "2024-01-21T00:00:00"
+  },
+  {
+    "lat": 6.086048,
+    "lon": 6.002097,
+    "true_cluster": 2,
+    "disease": "Yellow Fever",
+    "classification": "Probable",
+    "outcome": "Dead",
+    "category": "Animal",
+    "reported_at": "2024-01-11T00:00:00"
+  },
+  {
+    "lat": 5.685992,
+    "lon": 6.255406,
+    "true_cluster": 6,
+    "disease": "Cholera",
+    "classification": "Confirmed",
+    "outcome": "Alive",
+    "category": "Animal",
+    "reported_at": "2024-01-28T00:00:00"
+  },
+  {
+    "lat": 12.602583,
+    "lon": 8.560266,
+    "true_cluster": 7,
+    "disease": "Yellow Fever",
+    "classification": "Suspected",
+    "outcome": "Dead",
+    "category": "Environmental",
+    "reported_at": "2024-01-25T00:00:00"
+  },
+  {
+    "lat": 5.567696,
+    "lon": 6.282612,
+    "true_cluster": 6,
+    "disease": "Cholera",
+    "classification": "Confirmed",
+    "outcome": "Dead",
+    "category": "Human",
+    "reported_at": "2024-01-23T00:00:00"
+  },
+  {
+    "lat": 6.163919,
+    "lon": 6.023113,
+    "true_cluster": 2,
+    "disease": "Yellow Fever",
+    "classification": "Probable",
+    "outcome": "Unknown",
+    "category": "Environmental",
+    "reported_at": "2024-01-26T00:00:00"
+  },
+  {
+    "lat": 6.117865,
+    "lon": 5.979058,
+    "true_cluster": 2,
+    "disease": "Yellow Fever",
+    "classification": "Suspected",
+    "outcome": "Dead",
+    "category": "Human",
+    "reported_at": "2024-01-09T00:00:00"
+  },
+  {
+    "lat": 6.488614,
+    "lon": 9.703627,
+    "true_cluster": 1,
+    "disease": "Yellow Fever",
+    "classification": "Confirmed",
+    "outcome": "Unknown",
+    "category": "Human",
+    "reported_at": "2024-01-29T00:00:00"
+  },
+  {
+    "lat": 12.665089,
+    "lon": 8.518058,
+    "true_cluster": 7,
+    "disease": "Yellow Fever",
+    "classification": "Probable",
+    "outcome": "Unknown",
+    "category": "Human",
+    "reported_at": "2024-01-25T00:00:00"
+  },
+  {
+    "lat": 10.830321,
+    "lon": 4.630142,
+    "true_cluster": 4,
+    "disease": "Lassa Fever",
+    "classification": "Suspected",
+    "outcome": "Unknown",
+    "category": "Animal",
+    "reported_at": "2024-01-03T00:00:00"
+  },
+  {
+    "lat": 6.50605,
+    "lon": 9.583941,
+    "true_cluster": 1,
+    "disease": "Yellow Fever",
+    "classification": "Suspected",
+    "outcome": "Alive",
+    "category": "Human",
+    "reported_at": "2024-01-22T00:00:00"
+  },
+  {
+    "lat": 6.200076,
+    "lon": 7.016722,
+    "true_cluster": 9,
+    "disease": "Meningitis",
+    "classification": "Probable",
+    "outcome": "Dead",
+    "category": "Animal",
+    "reported_at": "2024-01-14T00:00:00"
+  },
+  {
+    "lat": 6.139986,
+    "lon": 6.002095,
+    "true_cluster": 2,
+    "disease": "Yellow Fever",
+    "classification": "Confirmed",
+    "outcome": "Alive",
+    "category": "Human",
+    "reported_at": "2024-01-07T00:00:00"
+  },
+  {
+    "lat": 7.014225,
+    "lon": 5.588488,
+    "true_cluster": 8,
+    "disease": "Yellow Fever",
+    "classification": "Probable",
+    "outcome": "Alive",
+    "category": "Environmental",
+    "reported_at": "2024-01-31T00:00:00"
+  },
+  {
+    "lat": 6.076997,
+    "lon": 5.971079,
+    "true_cluster": 2,
+    "disease": "Yellow Fever",
+    "classification": "Confirmed",
+    "outcome": "Unknown",
+    "category": "Animal",
+    "reported_at": "2024-01-15T00:00:00"
+  },
+  {
+    "lat": 12.595162,
+    "lon": 8.542635,
+    "true_cluster": 7,
+    "disease": "Yellow Fever",
+    "classification": "Probable",
+    "outcome": "Unknown",
+    "category": "Human",
+    "reported_at": "2024-01-11T00:00:00"
+  },
+  {
+    "lat": 10.095214,
+    "lon": 3.931489,
+    "true_cluster": 0,
+    "disease": "Lassa Fever",
+    "classification": "Probable",
+    "outcome": "Unknown",
+    "category": "Human",
+    "reported_at": "2024-01-23T00:00:00"
+  },
+  {
+    "lat": 10.060542,
+    "lon": 3.862106,
+    "true_cluster": 0,
+    "disease": "Lassa Fever",
+    "classification": "Probable",
+    "outcome": "Alive",
+    "category": "Human",
+    "reported_at": "2024-01-28T00:00:00"
+  },
+  {
+    "lat": 6.158329,
+    "lon": 6.933159,
+    "true_cluster": 9,
+    "disease": "Meningitis",
+    "classification": "Suspected",
+    "outcome": "Unknown",
+    "category": "Human",
+    "reported_at": "2024-01-01T00:00:00"
+  }
+]
