@@ -1,0 +1,32 @@
+case_id,description,symptoms,classification,outcome,true_severe,predicted_severe,correct,failure_category
+TC01,"Active haemorrhage, confirmed","bleeding, fever, weakness",Confirmed,Alive,True,True,True,TP
+TC02,"Seizure, suspected, survived","seizure, fever, headache",Suspected,Alive,True,True,True,TP
+TC03,"Fatal case, no dangerous symptoms on admission","fever, sore throat, fatigue",Suspected,Dead,True,True,True,TP
+TC04,Comatose patient,"coma, fever, vomiting",Probable,Alive,True,True,True,TP
+TC05,Respiratory distress on admission,"respiratory distress, fever, chest pain",Suspected,Alive,True,True,True,TP
+TC06,"Liver failure, jaundice","liver failure, jaundice, weakness",Probable,Alive,True,True,True,TP
+TC07,Shock on presentation,"shock, hypotension, fever",Suspected,Alive,True,True,True,TP
+TC08,"Disoriented patient, confirmed fatal","disorientation, confusion",Confirmed,Dead,True,True,True,TP
+TC09,Blood in stool only,"blood in stool, fever",Suspected,Alive,True,True,True,TP
+TC10,"Kidney failure, confirmed","kidney failure, oliguria",Confirmed,Alive,True,True,True,TP
+TN01,"Mild suspected case, fever and myalgia only","fever, myalgia, headache",Suspected,Alive,False,False,True,TN
+TN02,"Sore throat and weakness, suspected, discharged","sore throat, weakness, fatigue",Suspected,Alive,False,False,True,TN
+TN03,"Convalescent, probable, no danger signs","mild fatigue, loss of appetite",Probable,Alive,False,False,True,TN
+TN04,"Vomiting and diarrhoea only, suspected","vomiting, diarrhoea",Suspected,Alive,False,False,True,TN
+TN05,"Negative outcome (not Lassa), no symptoms logged",,Suspected,Alive,False,False,True,TN
+FP01,"Confirmed mild convalescent — ambulant, no danger signs, fully recovered","mild fatigue, occasional headache",Confirmed,Alive,False,True,False,FP_confirmed_bias
+FP02,"Confirmed case, only residual weakness post-discharge","weakness, fatigue",Confirmed,Alive,False,True,False,FP_confirmed_bias
+FP03,"Confirmed case, initial presentation was non-specific fever — never developed danger signs","fever, sore throat",Confirmed,Alive,False,True,False,FP_confirmed_bias
+FP04,Patient denies seizure — negation phrase splits into bare keyword after comma,"denies fever, seizure history resolved, headache",Suspected,Alive,False,False,True,FP_negation
+FP05,No active bleeding — phrase written as 'no bleeding' crosses into token boundary,"no active symptoms, bleeding risk noted in history, fever",Suspected,Alive,False,False,True,FP_negation
+FP06,"Negation in free text: 'no seizure, no bleeding' entered as comma-separated","no seizure, no bleeding, fever",Suspected,Alive,False,False,True,FP_negation
+FP07,Negation failure — bare keyword isolated after comma split,"no neurological symptoms, seizure episode now resolved, fever",Suspected,Alive,False,False,True,FP_negation
+FP08,Bare keyword 'seizure' isolated by comma after negation phrase,"no symptoms of concern, seizure, resolved prior to admission",Suspected,Alive,False,True,False,FP_negation
+FN01,Haemorrhage from gums — phrase entered with comma in middle of token,"bleeding from, gums, fever",Suspected,Alive,True,False,False,FN_multi_word
+FN02,Blood in stool — phrase split by space after comma,"blood in, stool, weakness",Suspected,Alive,True,False,False,FN_multi_word
+FN03,"Haematemesis (vomiting blood) — clinical synonym for haemorrhage, not in set","haematemesis, fever, weakness",Suspected,Alive,True,False,False,FN_synonym
+FN04,Melena (bloody stool) — clinical synonym not in keyword set,"melena, fever, weakness",Suspected,Alive,True,False,False,FN_synonym
+FN05,"Obtunded — clinical synonym for reduced consciousness, not in set","obtunded, fever",Suspected,Alive,True,False,False,FN_synonym
+FN06,"Haemoptysis — coughing blood, clinical severity marker not in set","haemoptysis, dyspnoea, fever",Suspected,Alive,True,False,False,FN_synonym
+FN07,Epistaxis (nosebleed) with haemorrhagic fever — not in set,"epistaxis, fever, weakness",Suspected,Alive,True,False,False,FN_synonym
+FN08,"Anuria — absence of urine output, severe renal sign, not in set","anuria, fever, vomiting",Suspected,Alive,True,False,False,FN_synonym
