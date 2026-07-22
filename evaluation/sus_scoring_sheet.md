@@ -1,12 +1,13 @@
 # System Usability Scale (SUS) Instrument
-## DOHS — Digital One Health Surveillance System
-**Research Question 3:** *Is the dashboard usable by non-technical health surveillance personnel?*
+## DOHS — Digital One Health Surveillance Web Dashboard
+
+**Research Question 3:** *Is the web dashboard usable by non-technical health surveillance personnel and administrators?*
 
 ---
 
 ## Participant Instructions
 
-> You will be asked to complete a series of tasks using the DOHS mobile application while this form is observed. After completing the tasks, please answer the following 10 statements by circling the number that best describes your reaction to the system.
+> You will be asked to complete a series of tasks using the DOHS web dashboard while this session is observed. After completing the tasks, please answer the following 10 statements by circling the number that best describes your reaction to the system.
 
 > There are no right or wrong answers. Please respond to every statement.
 
@@ -22,7 +23,7 @@
 | Participant ID (assigned) | P___ |
 | Date | _________________ |
 | Role / Occupation | _________________ |
-| Prior experience with health reporting apps | None / Some / Extensive |
+| Prior experience with surveillance/analytics dashboards | None / Some / Extensive |
 
 ---
 
@@ -30,22 +31,22 @@
 
 | # | Statement | 1 | 2 | 3 | 4 | 5 |
 |---|---|---|---|---|---|---|
-| 1 | I think that I would like to use this system frequently. | ○ | ○ | ○ | ○ | ○ |
-| 2 | I found the system unnecessarily complex. | ○ | ○ | ○ | ○ | ○ |
-| 3 | I thought the system was easy to use. | ○ | ○ | ○ | ○ | ○ |
-| 4 | I think that I would need the support of a technical person to be able to use this system. | ○ | ○ | ○ | ○ | ○ |
-| 5 | I found the various functions in this system were well integrated. | ○ | ○ | ○ | ○ | ○ |
-| 6 | I thought there was too much inconsistency in this system. | ○ | ○ | ○ | ○ | ○ |
-| 7 | I would imagine that most people would learn to use this system very quickly. | ○ | ○ | ○ | ○ | ○ |
-| 8 | I found the system very cumbersome to use. | ○ | ○ | ○ | ○ | ○ |
-| 9 | I felt very confident using the system. | ○ | ○ | ○ | ○ | ○ |
-| 10 | I needed to learn a lot of things before I could get going with this system. | ○ | ○ | ○ | ○ | ○ |
+| 1 | I think that I would like to use this dashboard frequently. | ○ | ○ | ○ | ○ | ○ |
+| 2 | I found the dashboard unnecessarily complex. | ○ | ○ | ○ | ○ | ○ |
+| 3 | I thought the dashboard was easy to use. | ○ | ○ | ○ | ○ | ○ |
+| 4 | I think that I would need the support of a technical person to be able to use this dashboard. | ○ | ○ | ○ | ○ | ○ |
+| 5 | I found the various functions in this dashboard were well integrated. | ○ | ○ | ○ | ○ | ○ |
+| 6 | I thought there was too much inconsistency in this dashboard. | ○ | ○ | ○ | ○ | ○ |
+| 7 | I would imagine that most people would learn to use this dashboard very quickly. | ○ | ○ | ○ | ○ | ○ |
+| 8 | I found the dashboard very cumbersome to use. | ○ | ○ | ○ | ○ | ○ |
+| 9 | I felt very confident using the dashboard. | ○ | ○ | ○ | ○ | ○ |
+| 10 | I needed to learn a lot of things before I could get going with this dashboard. | ○ | ○ | ○ | ○ | ○ |
 
 ---
 
 ## Open-Ended Feedback
 
-**What did you find most useful about the system?**
+**What did you find most useful about the dashboard?**
 
 _______________________________________________________________________
 
@@ -94,7 +95,7 @@ SUS Score = Sum of all contributions × 2.5
 | 50 – 59 | Poor | Not Acceptable |
 | < 50 | Awful | Not Acceptable |
 
-> **Reference baseline:** The DOHS companion mobile application (Abdulhameed et al., 2024) reported a SUS score of **78.4** — classified as *Good*. This backend system's dashboard should be benchmarked against this figure.
+> **Note on comparison:** This instrument evaluates the DOHS web dashboard — a distinct artifact from the DOHS mobile reporting application, whose SUS score of **78.4** ("Good") was reported separately for field-worker use (companion paper). The dashboard is used primarily by surveillance officers and administrators reviewing aggregated, cross-sectoral data, not by field workers submitting individual case reports. Scores from the two artifacts may be reported alongside one another for context but should not be treated as directly equivalent, since they serve different user roles and task types.
 
 > **Source:** Brooke, J. (1996). SUS: A quick and dirty usability scale. In P. W. Jordan, B. Thomas, B. A. Weerdmeester, & I. L. McClelland (Eds.), *Usability Evaluation in Industry* (pp. 189–194). Taylor & Francis.
 
@@ -120,11 +121,18 @@ SUS Score = Sum of all contributions × 2.5
 
 ## Tasks Administered to Participants
 
-The following tasks were observed during the session before administering this questionnaire:
+The following tasks are observed on the web dashboard before administering this questionnaire:
 
-1. Register a new health worker account.
-2. Log in with your credentials.
-3. Report a suspected Malaria case in your current location.
-4. View your personal dashboard and identify how many reports you submitted this week.
-5. Use the AI reporting assistant to describe a case verbally and confirm the report was submitted.
-6. Log out of the system.
+1. Log in to the dashboard using assigned credentials.
+2. Navigate to the Human Health module and filter case records by a given date range.
+3. Open the Analysis/Map page and identify the number of active spatial clusters currently detected.
+4. View the Overview/Stakeholder dashboard and report the total number of cases recorded this week across all three domains.
+5. Locate the most recently reported Animal Health case and identify its classification status (Suspected/Probable/Confirmed).
+6. Export the currently filtered case list to an Excel file using the Data Export feature.
+7. Log out of the dashboard.
+
+---
+
+## Participant Recruitment Notes (Researcher Use Only)
+
+> **Target participants:** Individuals plausibly representative of dashboard end-users — e.g., public health/surveillance students, epidemiology or health informatics students, or staff with some exposure to health data review — rather than field-reporting health workers (who are the mobile app's user base, already evaluated in the companion study). If a convenience sample (e.g., university students) is used, state this explicitly as a limitation, consistent with the companion mobile app paper's own disclosed limitation regarding generalizability to target end-users.
