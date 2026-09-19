@@ -2,18 +2,13 @@ import logging
 from sqlmodel import Session, create_engine, select
 import json
 import os
-from pathlib import Path
-from dotenv import load_dotenv
-
-# Load .env from the project root (one level above this file's app/ directory)
-# This ensures CLOUD_DB_URI is available regardless of where uvicorn is launched from.
-_env_path = Path(__file__).resolve().parent.parent.parent / ".env"
-load_dotenv(dotenv_path=_env_path, override=False)
-
 from models.nigeriaGeo import LGA, State
 from core.config import settings
 from models.workers_model import HealthWorker, HealthWorkerCreate, NonHealthWorkerRead
 from models.workers_model import SQLModel
+from pathlib import Path
+
+
 
 # Configure logging
 logging.basicConfig(level=logging.INFO)

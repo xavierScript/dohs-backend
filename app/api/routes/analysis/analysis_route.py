@@ -6,7 +6,6 @@ from pydantic import BaseModel
 from datetime import datetime, timedelta
 from models import HealthCase, AnimalCase, EnvironmentalCase
 from core.db import get_session, logger
-from core.clustering import haversine_distance, region_query, dbscan
 
 router = APIRouter(prefix="/analysis", tags=["Analysis"])
 
@@ -58,11 +57,66 @@ class AnalysisParameters(BaseModel):
 
 
 # -------------------------------------------------------------------
-# ⚙️ Custom DBSCAN implementation (imported from core/clustering.py)
-# haversine_distance, region_query, and dbscan are defined in
-# core/clustering.py so they can be imported by evaluation scripts
-# without triggering the database engine.
+# ⚙️ Custom DBSCAN implementation (no sklearn)
 # -------------------------------------------------------------------
+
+def haversine_distance(lat1, lon1, lat2, lon2):
+    """Compute Haversine distance between two lat/lon points (in km)."""
+    R = 6371.0088  # Earth radius in km
+    dlat = np.radians(lat2 - lat1)
+    dlon = np.radians(lon2 - lon1)
+    a = np.sin(dlat / 2) ** 2 + np.cos(np.radians(lat1)) * np.cos(np.radians(lat2)) * np.sin(dlon / 2) ** 2
+    return 2 * R * np.arcsin(np.sqrt(a))
+
+
+def region_query(points, idx, eps_km):
+    """Find all points within eps_km of point idx."""
+    neighbors = []
+    for i, p in enumerate(points):
+        if haversine_distance(points[idx][0], points[idx][1], p[0], p[1]) <= eps_km:
+            neighbors.append(i)
+    return neighbors
+
+
+def dbscan(points, eps_km, min_samples):
+    """
+    Custom DBSCAN clustering.
+    Args:
+        points: list or np.ndarray of [lat, lon]
+        eps_km: neighborhood radius in kilometers
+        min_samples: minimum points to form a cluster
+    Returns:
+        labels: np.ndarray with cluster ids (-1 for noise)
+    """
+    n = len(points)
+    labels = [-1] * n
+    visited = [False] * n
+    cluster_id = 0
+
+    for i in range(n):
+        if visited[i]:
+            continue
+        visited[i] = True
+
+        neighbors = region_query(points, i, eps_km)
+        if len(neighbors) < min_samples:
+            labels[i] = -1
+        else:
+            labels[i] = cluster_id
+            seeds = neighbors.copy()
+
+            while seeds:
+                current = seeds.pop()
+                if not visited[current]:
+                    visited[current] = True
+                    new_neighbors = region_query(points, current, eps_km)
+                    if len(new_neighbors) >= min_samples:
+                        seeds.extend(new_neighbors)
+                if labels[current] == -1:
+                    labels[current] = cluster_id
+            cluster_id += 1
+
+    return np.array(labels)
 
 
 # -------------------------------------------------------------------

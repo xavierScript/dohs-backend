@@ -189,14 +189,11 @@ async def create_health_case(
 ):
     try:
         # Create the health case
-        _request_received_at = datetime.utcnow()
         case_data = data.dict()
         case = HealthCase(**case_data, reporter_id=current_user.id, reported_at=datetime.utcnow())
         session.add(case)
         session.commit()
         session.refresh(case)
-        _db_commit_ms = (datetime.utcnow() - _request_received_at).total_seconds() * 1000
-        logger.info(f"LATENCY_METRIC case_id={case.case_id} db_commit_ms={_db_commit_ms:.2f}")
         
         # Prepare and send data to n8n webhook (in background)
         n8n_payload = prepare_n8n_payload(case, "health")
